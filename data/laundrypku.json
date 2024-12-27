@@ -1,0 +1,1907 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.421356494835,
+          0.57043551094283196
+        ]
+      },
+      "properties" : {
+        "NO" : 1,
+        "Nama_Pemetaan" : "Happy Laundry",
+        "DD(Y)" : 0.57043551094283196,
+        "DD(X)" : 101.421356494835,
+        "Alamat" : "HCCC+5GH, Umban Sari, Rumbai, Pekanbaru City, Riau 28266",
+        "Informasi Kontak" : "81233014725",
+        "Gambar" : "HappyLaundry.jpg",
+        "Informasi Detail" : " Jam Buka : 08.00 - 21.00 \nHarga Per Kg : 8.000 \nLayanan Yang Tersedia \n1.Cuci  \n2.Pengeringan \n3.Cuci dan Gosok \n4.Cuci Sepatu \n5.Boneka"
+
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42416889555,
+          0.56891453248096702
+        ]
+      },
+      "properties" : {
+        "NO" : 2,
+        "Nama_Pemetaan" : "Kembar Laundry",
+        "DD(Y)" : 0.56891453248096702,
+        "DD(X)" : 101.42416889555,
+        "Alamat" : "Jl. Umban Sari No.69, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : null,
+        "Gambar" : "KembarLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42273368497,
+          0.569438042789573
+        ]
+      },
+      "properties" : {
+        "NO" : 3,
+        "Nama_Pemetaan" : "KAHFIRA LAUNDRY",
+        "DD(Y)" : 0.569438042789573,
+        "DD(X)" : 101.42273368497,
+        "Alamat" : "Umban Sari, Rumbai, Pekanbaru City, Riau",
+        "Informasi Kontak" : null,
+        "Gambar" : "kahfiraL.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41982518412399,
+          0.56794608383838796
+        ]
+      },
+      "properties" : {
+        "NO" : 4,
+        "Nama_Pemetaan" : "Risa Laundry",
+        "DD(Y)" : 0.56794608383838796,
+        "DD(X)" : 101.41982518412399,
+        "Alamat" : "Jl. Arwana No.05, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "82386293770",
+        "Gambar" : "Risal.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42530243918399,
+          0.56532561898122202
+        ]
+      },
+      "properties" : {
+        "NO" : 5,
+        "Nama_Pemetaan" : "RC LAUNDRY",
+        "DD(Y)" : 0.56532561898122202,
+        "DD(X)" : 101.42530243918399,
+        "Alamat" : "Jl. Tegalsari No.64, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28264",
+        "Informasi Kontak" : "82169142556",
+        "Gambar" : "RcLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.426774745437,
+          0.56548869227297804
+        ]
+      },
+      "properties" : {
+        "NO" : 6,
+        "Nama_Pemetaan" : "HTM Laundry (Express)",
+        "DD(Y)" : 0.56548869227297804,
+        "DD(X)" : 101.426774745437,
+        "Alamat" : "HC8G+5QC, Jl. Tegalsari, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "81363046882",
+        "Gambar" : "HTMLAundru.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42490322971599,
+          0.56503227845449799
+        ]
+      },
+      "properties" : {
+        "NO" : 7,
+        "Nama_Pemetaan" : "2 Putri laundry",
+        "DD(Y)" : 0.56503227845449799,
+        "DD(X)" : 101.42490322971599,
+        "Alamat" : "HC8F+2X Umban Sari, Pekanbaru City, Riau",
+        "Informasi Kontak" : "-",
+        "Gambar" : "2PutriLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.419078688147,
+          0.56730843820036803
+        ]
+      },
+      "properties" : {
+        "NO" : 8,
+        "Nama_Pemetaan" : "Talago Biru Laundry",
+        "DD(Y)" : 0.56730843820036803,
+        "DD(X)" : 101.419078688147,
+        "Alamat" : "Umban Sari, Rumbai, Pekanbaru City, Riau 28266",
+        "Informasi Kontak" : "85274073751",
+        "Gambar" : "TalagoBiruLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.437794800942,
+          0.54622287852818396
+        ]
+      },
+      "properties" : {
+        "NO" : 9,
+        "Nama_Pemetaan" : "Shine Laundry Pekanbaru",
+        "DD(Y)" : 0.54622287852818396,
+        "DD(X)" : 101.437794800942,
+        "Alamat" : "Jl. Yos Sudarso No.samping, tugu lama, Kec. Rumbai, Kota Pekanbaru, Riau 27292",
+        "Informasi Kontak" : "\n0822-8573-3166",
+        "Gambar" : "shinelaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41929191358901,
+          0.56890618864466702
+        ]
+      },
+      "properties" : {
+        "NO" : 10,
+        "Nama_Pemetaan" : "SAID LAUNDRY",
+        "DD(Y)" : 0.56890618864466702,
+        "DD(X)" : 101.41929191358901,
+        "Alamat" : "HC99+HP7, Jl. Bukit Sari, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "81270905680 / 0812 7000 5000-0053 ",
+        "Gambar" : "saidlaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.418468218817,
+          0.53510062917435597
+        ]
+      },
+      "properties" : {
+        "NO" : 11,
+        "Nama_Pemetaan" : "Premium Laundry (Laundry Express)",
+        "DD(Y)" : 0.53510062917435597,
+        "DD(X)" : 101.418468218817,
+        "Alamat" : "GCP9+29 Air Hitam, Pekanbaru City, Riau",
+        "Informasi Kontak" : "8117676606",
+        "Gambar" : "premiumlaundryekspess.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.425721939426,
+          0.56526619221211305
+        ]
+      },
+      "properties" : {
+        "NO" : 12,
+        "Nama_Pemetaan" : "La tansa laundry",
+        "DD(Y)" : 0.56526619221211305,
+        "DD(X)" : 101.425721939426,
+        "Alamat" : "HC8G+478, Jl. Tegalsari, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "81277531155",
+        "Gambar" : "latansalaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.426575274797,
+          0.56204869308723704
+        ]
+      },
+      "properties" : {
+        "NO" : 13,
+        "Nama_Pemetaan" : "Naya Laundry",
+        "DD(Y)" : 0.56204869308723704,
+        "DD(X)" : 101.426575274797,
+        "Alamat" : "Jalan Berdikari Ujung, Kelurahan No.3A, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "85363015023",
+        "Gambar" : "NayaLaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.421331585774,
+          0.57119612016826304
+        ]
+      },
+      "properties" : {
+        "NO" : 14,
+        "Nama_Pemetaan" : "Laundry 2 Putra",
+        "DD(Y)" : 0.57119612016826304,
+        "DD(X)" : 101.421331585774,
+        "Alamat" : "HCCC+FG Umban Sari, Pekanbaru City, Riau",
+        "Informasi Kontak" : "81277439190",
+        "Gambar" : "Laundry2Putra.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.424901193528,
+          0.56388023485485606
+        ]
+      },
+      "properties" : {
+        "NO" : 15,
+        "Nama_Pemetaan" : "Bunda Laundry",
+        "DD(Y)" : 0.56388023485485606,
+        "DD(X)" : 101.424901193528,
+        "Alamat" : "Jalan Berdikari, Kelurahan No.Ujung, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "81268903293",
+        "Gambar" : "BundaLaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.414523617757,
+          0.56698134319321003
+        ]
+      },
+      "properties" : {
+        "NO" : 16,
+        "Nama_Pemetaan" : "Kalis Laundry",
+        "DD(Y)" : 0.56698134319321003,
+        "DD(X)" : 101.414523617757,
+        "Alamat" : "Jl. Kartika Sari, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28265",
+        "Informasi Kontak" : "81364279077",
+        "Gambar" : "KalisLaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.425362566429,
+          0.56597663789618802
+        ]
+      },
+      "properties" : {
+        "NO" : 17,
+        "Nama_Pemetaan" : "Aldo Laundry",
+        "DD(Y)" : 0.56597663789618802,
+        "DD(X)" : 101.425362566429,
+        "Alamat" : "HC8G+94Q, Jl. Rowo Sari, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : null,
+        "Gambar" : "AldoLaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42297500000001,
+          0.48047499999999999
+        ]
+      },
+      "properties" : {
+        "NO" : 18,
+        "Nama_Pemetaan" : "Cingky Laundry",
+        "DD(Y)" : 0.48047499999999999,
+        "DD(X)" : 101.42297500000001,
+        "Alamat" : "Jl. Bakti No.Kelurahan, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28282",
+        "Informasi Kontak" : "6,2821999952e+012",
+        "Gambar" : "CingkyLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42315833333333,
+          0.48054722222222224
+        ]
+      },
+      "properties" : {
+        "NO" : 19,
+        "Nama_Pemetaan" : "Topklin Laundry",
+        "DD(Y)" : 0.48054722222222224,
+        "DD(X)" : 101.42315833333333,
+        "Alamat" : "Jl. Bakti No.Kel C5, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28292",
+        "Informasi Kontak" : "6,2852720202e+012",
+        "Gambar" : "TopklinLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44536111111111,
+          0.49302777777777779
+        ]
+      },
+      "properties" : {
+        "NO" : 20,
+        "Nama_Pemetaan" : "Garis Laundry Garuda",
+        "DD(Y)" : 0.49302777777777779,
+        "DD(X)" : 101.44536111111111,
+        "Alamat" : "Jl. Garuda, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
+        "Informasi Kontak" : "6,2877356392e+012",
+        "Gambar" : "GarisLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43655833333334,
+          0.48354999999999998
+        ]
+      },
+      "properties" : {
+        "NO" : 21,
+        "Nama_Pemetaan" : "YESs LAUNDRY",
+        "DD(Y)" : 0.48354999999999998,
+        "DD(X)" : 101.43655833333334,
+        "Alamat" : "Jl. Paus, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28282",
+        "Informasi Kontak" : "6,2813787386e+012",
+        "Gambar" : "YESsLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.429525,
+          0.47888611111111112
+        ]
+      },
+      "properties" : {
+        "NO" : 22,
+        "Nama_Pemetaan" : "Lux Laundry",
+        "DD(Y)" : 0.47888611111111112,
+        "DD(X)" : 101.429525,
+        "Alamat" : "Jl. Bakti, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau",
+        "Informasi Kontak" : "6,2812761071e+012",
+        "Gambar" : "LuxLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43850277777779,
+          0.49165000000000003
+        ]
+      },
+      "properties" : {
+        "NO" : 23,
+        "Nama_Pemetaan" : "Lala Laundry",
+        "DD(Y)" : 0.49165000000000003,
+        "DD(X)" : 101.43850277777779,
+        "Alamat" : "Jl. Paus No.561-A P, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
+        "Informasi Kontak" : "6,289950008e+011",
+        "Gambar" : "LalaLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42455555555556,
+          0.45471666666666666
+        ]
+      },
+      "properties" : {
+        "NO" : 24,
+        "Nama_Pemetaan" : "L-Star Laundry",
+        "DD(Y)" : 0.45471666666666666,
+        "DD(X)" : 101.42455555555556,
+        "Alamat" : "Jl. Inpres No.2, RT.008/RW.016, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289",
+        "Informasi Kontak" : "6,2823533001e+012",
+        "Gambar" : "L-StarLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42451944444444,
+          0.45116944444444446
+        ]
+      },
+      "properties" : {
+        "NO" : 25,
+        "Nama_Pemetaan" : "VIC Laundry",
+        "DD(Y)" : 0.45116944444444446,
+        "DD(X)" : 101.42451944444444,
+        "Alamat" : "Jl. Inpres No.67, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289",
+        "Informasi Kontak" : "6,2823886538e+012",
+        "Gambar" : "VICLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43581388888889,
+          0.47907777777777777
+        ]
+      },
+      "properties" : {
+        "NO" : 26,
+        "Nama_Pemetaan" : "Shafeea Laundry",
+        "DD(Y)" : 0.47907777777777777,
+        "DD(X)" : 101.43581388888889,
+        "Alamat" : "Jl. Irkab No.15, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
+        "Informasi Kontak" : "6,2895602983e+013",
+        "Gambar" : "ShafeeaLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43285,
+          0.50065277777777772
+        ]
+      },
+      "properties" : {
+        "NO" : 27,
+        "Nama_Pemetaan" : "Dini Laundry",
+        "DD(Y)" : 0.50065277777777772,
+        "DD(X)" : 101.43285,
+        "Alamat" : "GC2M+749, Jl. Duyung, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28124",
+        "Informasi Kontak" : "6,2813647794e+012",
+        "Gambar" : "DiniLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442425,
+          0.4856861111111111
+        ]
+      },
+      "properties" : {
+        "NO" : 28,
+        "Nama_Pemetaan" : "Adara Laundry",
+        "DD(Y)" : 0.4856861111111111,
+        "DD(X)" : 101.442425,
+        "Alamat" : "FCPR+5WW lion air, Jl. Garuda Ujung, RT.: 04/RW.:14, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28252",
+        "Informasi Kontak" : "6,2852744026e+012",
+        "Gambar" : "AdaraLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42563333333334,
+          0.46071944444444446
+        ]
+      },
+      "properties" : {
+        "NO" : 29,
+        "Nama_Pemetaan" : "D'Wash Laundry & Dry Cleaning",
+        "DD(Y)" : 0.46071944444444446,
+        "DD(X)" : 101.42563333333334,
+        "Alamat" : "Jl. Inpres No.2A 2C, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 29125",
+        "Informasi Kontak" : "6,281261133e+012",
+        "Gambar" : "DWash.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43772222222222,
+          0.51933055555555563
+        ]
+      },
+      "properties" : {
+        "NO" : 30,
+        "Nama_Pemetaan" : "Laundry Care",
+        "DD(Y)" : 0.51933055555555563,
+        "DD(X)" : 101.43772222222222,
+        "Alamat" : "Jl. KH. Ahmad Dahlan No.51A, Harjosari, Kec. Sukajadi, Kota Pekanbaru, Riau 28122",
+        "Informasi Kontak" : "6,2821141744e+012",
+        "Gambar" : "laundrycare.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42824722222223,
+          0.49684444444444442
+        ]
+      },
+      "properties" : {
+        "NO" : 31,
+        "Nama_Pemetaan" : "Central Laundry",
+        "DD(Y)" : 0.49684444444444442,
+        "DD(X)" : 101.42824722222223,
+        "Alamat" : "no. 113 B, Jl. Todak, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28124",
+        "Informasi Kontak" : "6,2895211496e+012",
+        "Gambar" : "centrallaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44836388888889,
+          0.47507222222222223
+        ]
+      },
+      "properties" : {
+        "NO" : 32,
+        "Nama_Pemetaan" : "Bestie Laundry",
+        "DD(Y)" : 0.47507222222222223,
+        "DD(X)" : 101.44836388888889,
+        "Alamat" : "Jl. Rw. Indah, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28288",
+        "Informasi Kontak" : "6,2821120758e+012",
+        "Gambar" : "bestielaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43495277777778,
+          0.5089055555555555
+        ]
+      },
+      "properties" : {
+        "NO" : 33,
+        "Nama_Pemetaan" : "Master Laundry Cabang Marsan",
+        "DD(Y)" : 0.5089055555555555,
+        "DD(X)" : 101.43495277777778,
+        "Alamat" : "Jl. Marsan Timur Kelurahan No.08, Sidomulyo Bar., Kec. Tampan, Kota Pekanbaru, Riau 28294",
+        "Informasi Kontak" : "6,2811754778e+011",
+        "Gambar" : "masterlaundrytampan.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43915277777778,
+          0.49804444444444446
+        ]
+      },
+      "properties" : {
+        "NO" : 34,
+        "Nama_Pemetaan" : "Maxpress Coin Laundry",
+        "DD(Y)" : 0.49804444444444446,
+        "DD(X)" : 101.43915277777778,
+        "Alamat" : "Jl. Paus No.31B, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28124",
+        "Informasi Kontak" : "6,2813191329e+012",
+        "Gambar" : "maxpresscoinlaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.406412897122,
+          0.53154399722622903
+        ]
+      },
+      "properties" : {
+        "NO" : 35,
+        "Nama_Pemetaan" : "Laundry Express Steady Laundry",
+        "DD(Y)" : 0.53154399722622903,
+        "DD(X)" : 101.406412897122,
+        "Alamat" : "Jl. Karya Indah, Air Hitam, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
+        "Informasi Kontak" : "82385239143",
+        "Gambar" : "SteadyLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.425525207519,
+          0.52366962688223495
+        ]
+      },
+      "properties" : {
+        "NO" : 36,
+        "Nama_Pemetaan" : "Homie Laundry & Dry Cleaning",
+        "DD(Y)" : 0.52366962688223495,
+        "DD(X)" : 101.425525207519,
+        "Alamat" : "samping Alfamart, Jl. Jendral, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
+        "Informasi Kontak" : "81270234528",
+        "Gambar" : "HomieLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41899587108701,
+          0.54117359191556302
+        ]
+      },
+      "properties" : {
+        "NO" : 37,
+        "Nama_Pemetaan" : "Homie Laundry & Dry Cleaning 2",
+        "DD(Y)" : 0.54117359191556302,
+        "DD(X)" : 101.41899587108701,
+        "Alamat" : "Jl. Pemuda No.48 C, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
+        "Informasi Kontak" : "81226870606",
+        "Gambar" : "HomieLaundry2.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.421261984672,
+          0.52352609359168001
+        ]
+      },
+      "properties" : {
+        "NO" : 38,
+        "Nama_Pemetaan" : "QS Laundry",
+        "DD(Y)" : 0.52352609359168001,
+        "DD(X)" : 101.421261984672,
+        "Alamat" : "Jl. Jendral No.47B, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28251",
+        "Informasi Kontak" : "81318834041",
+        "Gambar" : "QsLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.426141564909,
+          0.52398632606417195
+        ]
+      },
+      "properties" : {
+        "NO" : 39,
+        "Nama_Pemetaan" : "Klambi Laundry",
+        "DD(Y)" : 0.52398632606417195,
+        "DD(X)" : 101.426141564909,
+        "Alamat" : "Jl. Jendral No.3E, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28156",
+        "Informasi Kontak" : "81210708838",
+        "Gambar" : "klambilaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44040384919001,
+          0.53562082495087504
+        ]
+      },
+      "properties" : {
+        "NO" : 40,
+        "Nama_Pemetaan" : "Netto Laundromat Riau28",
+        "DD(Y)" : 0.53562082495087504,
+        "DD(X)" : 101.44040384919001,
+        "Alamat" : "Jl. Riau No.28, RT.001/RW007, Kp. Bandar, Kec. Senapelan, Kota Pekanbaru, Riau 28153",
+        "Informasi Kontak" : "76138157",
+        "Gambar" : "nettolaundry.jpeg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41781903372799,
+          0.54126075072228697
+        ]
+      },
+      "properties" : {
+        "NO" : 41,
+        "Nama_Pemetaan" : "Stellar laundry coin expess",
+        "DD(Y)" : 0.54126075072228697,
+        "DD(X)" : 101.41781903372799,
+        "Alamat" : "Jl. Pemuda No.58 c, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
+        "Informasi Kontak" : "85366692021",
+        "Gambar" : "stellarlaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.423051001294,
+          0.54082078981109105
+        ]
+      },
+      "properties" : {
+        "NO" : 42,
+        "Nama_Pemetaan" : "Mama Laundry",
+        "DD(Y)" : 0.54082078981109105,
+        "DD(X)" : 101.423051001294,
+        "Alamat" : "Jl. Pemuda No.107, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
+        "Informasi Kontak" : "81275952015",
+        "Gambar" : "mamalaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.425276818005,
+          0.51832967087246595
+        ]
+      },
+      "properties" : {
+        "NO" : 43,
+        "Nama_Pemetaan" : "Gentle Laundry",
+        "DD(Y)" : 0.51832967087246595,
+        "DD(X)" : 101.425276818005,
+        "Alamat" : "Jl. Durian No.38F, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28156",
+        "Informasi Kontak" : "81363046882",
+        "Gambar" : "gentlelaundry.jpeg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42113367844,
+          0.53720961887058605
+        ]
+      },
+      "properties" : {
+        "NO" : 44,
+        "Nama_Pemetaan" : "Netto Laundromat Express Laundry",
+        "DD(Y)" : 0.53720961887058605,
+        "DD(X)" : 101.42113367844,
+        "Alamat" : "masjid Alhamdulillah, Jl. Kayu Manis No.depan, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
+        "Informasi Kontak" : "82388999817",
+        "Gambar" : "nettoexpress.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.430691215698,
+          0.51742414457740304
+        ]
+      },
+      "properties" : {
+        "NO" : 45,
+        "Nama_Pemetaan" : "Laundry Club",
+        "DD(Y)" : 0.51742414457740304,
+        "DD(X)" : 101.430691215698,
+        "Alamat" : "Jl. Durian No.6, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28121",
+        "Informasi Kontak" : "87869192254",
+        "Gambar" : "laundryclub.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.431109651037,
+          0.51860432414097002
+        ]
+      },
+      "properties" : {
+        "NO" : 46,
+        "Nama_Pemetaan" : "Revo Laundry Expert",
+        "DD(Y)" : 0.51860432414097002,
+        "DD(X)" : 101.431109651037,
+        "Alamat" : "Pemancar, Jl. Durian Gg. TVRI, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
+        "Informasi Kontak" : "8116903330",
+        "Gambar" : "revolaundry.jpeg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43282175277599,
+          0.53666149855704304
+        ]
+      },
+      "properties" : {
+        "NO" : 47,
+        "Nama_Pemetaan" : "Rezeki Laundry",
+        "DD(Y)" : 0.53666149855704304,
+        "DD(X)" : 101.43282175277599,
+        "Alamat" : "D-E Jl. Kulim No.16, Kp. Baru, Kec. Senapelan, Kota Pekanbaru, Riau 28292",
+        "Informasi Kontak" : "81277751989",
+        "Gambar" : "rezekilaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.439831784106,
+          0.51749430568946597
+        ]
+      },
+      "properties" : {
+        "NO" : 48,
+        "Nama_Pemetaan" : "Neo Laundry Express",
+        "DD(Y)" : 0.51749430568946597,
+        "DD(X)" : 101.439831784106,
+        "Alamat" : "Jl. Durian No.38-40, Sukajadi, Kec. Sukajadi, Kota Pekanbaru, Riau 28121",
+        "Informasi Kontak" : "85375441081",
+        "Gambar" : "neolaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.425523532013,
+          0.51727305764787002
+        ]
+      },
+      "properties" : {
+        "NO" : 49,
+        "Nama_Pemetaan" : "Netto Express Laundry",
+        "DD(Y)" : 0.51727305764787002,
+        "DD(X)" : 101.425523532013,
+        "Alamat" : "Jl. Durian No.52, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
+        "Informasi Kontak" : "81270892199",
+        "Gambar" : "nettoexpress.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.432660316615,
+          0.53794954754024704
+        ]
+      },
+      "properties" : {
+        "NO" : 50,
+        "Nama_Pemetaan" : "Diana Laundry",
+        "DD(Y)" : 0.53794954754024704,
+        "DD(X)" : 101.432660316615,
+        "Alamat" : "Jl. Kulim No.38, Kp. Baru, Kec. Pekanbaru Kota, Sebarkan, Riau 28155",
+        "Informasi Kontak" : "82283534076",
+        "Gambar" : "dianalaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.431363989913,
+          0.54163547721451399
+        ]
+      },
+      "properties" : {
+        "NO" : 51,
+        "Nama_Pemetaan" : "Wella Laundry",
+        "DD(Y)" : 0.54163547721451399,
+        "DD(X)" : 101.431363989913,
+        "Alamat" : "Jl. Kulim No.38, Kp. Baru, Kec. Pekanbaru Kota, Sebarkan, Riau 28155",
+        "Informasi Kontak" : "82283534076",
+        "Gambar" : "wellalaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.3720405,
+          0.46741971319999998
+        ]
+      },
+      "properties" : {
+        "NO" : 52,
+        "Nama_Pemetaan" : "Buana Laundry",
+        "DD(Y)" : 0.46741971319999998,
+        "DD(X)" : 101.3720405,
+        "Alamat" : "Jl. Merpati Sakti, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28291",
+        "Informasi Kontak" : "0821-7143-6416",
+        "Gambar" : "buanalaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.38104730000001,
+          0.456965236
+        ]
+      },
+      "properties" : {
+        "NO" : 53,
+        "Nama_Pemetaan" : "Nadilla Laundry",
+        "DD(Y)" : 0.456965236,
+        "DD(X)" : 101.38104730000001,
+        "Alamat" : "Jl. Swakarya No.Kelurahan, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : "0812-6848-6030",
+        "Gambar" : "nadillalaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.3806857,
+          0.45990335449999997
+        ]
+      },
+      "properties" : {
+        "NO" : 54,
+        "Nama_Pemetaan" : "Almira Laundry",
+        "DD(Y)" : 0.45990335449999997,
+        "DD(X)" : 101.3806857,
+        "Alamat" : "Jl. Swakarya, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : "0812-6864-9122",
+        "Gambar" : "almirlaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.37703399999999,
+          0.46203991859999999
+        ]
+      },
+      "properties" : {
+        "NO" : 55,
+        "Nama_Pemetaan" : "Laundry Time",
+        "DD(Y)" : 0.46203991859999999,
+        "DD(X)" : 101.37703399999999,
+        "Alamat" : "Jl. Taman Karya, Tuah Karya, PANAM, Kota Pekanbaru, Riau 28292",
+        "Informasi Kontak" : "0895-3868-80014",
+        "Gambar" : "laundrytime.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.372125,
+          0.46598035989999997
+        ]
+      },
+      "properties" : {
+        "NO" : 56,
+        "Nama_Pemetaan" : "Restu Bunda Laundry",
+        "DD(Y)" : 0.46598035989999997,
+        "DD(X)" : 101.372125,
+        "Alamat" : "Jl. Merpati Sakti, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : "0823-8441-9506",
+        "Gambar" : "restubundalaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.3720172,
+          0.46762854190000003
+        ]
+      },
+      "properties" : {
+        "NO" : 57,
+        "Nama_Pemetaan" : "Iqbal Laundry",
+        "DD(Y)" : 0.46762854190000003,
+        "DD(X)" : 101.3720172,
+        "Alamat" : "Jl. Merpati Sakti No.Kelurahan, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : "0852-7153-8883",
+        "Gambar" : "iqballaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.3720647,
+          0.4686269401
+        ]
+      },
+      "properties" : {
+        "NO" : 58,
+        "Nama_Pemetaan" : "N'Roska Laundry",
+        "DD(Y)" : 0.4686269401,
+        "DD(X)" : 101.3720647,
+        "Alamat" : "Jl. Merpati Sakti No.Kelurahan, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : "0896-3633-4099",
+        "Gambar" : "anroskalaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.3719976,
+          0.47012058629999998
+        ]
+      },
+      "properties" : {
+        "NO" : 59,
+        "Nama_Pemetaan" : "Cahaya Laundry",
+        "DD(Y)" : 0.47012058629999998,
+        "DD(X)" : 101.3719976,
+        "Alamat" : "Jl. Merpati Sakti Gg. Pipit No.Depan, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : "0852-1034-2140",
+        "Gambar" : "cahayalaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.37195507202399,
+          0.47063232025755802
+        ]
+      },
+      "properties" : {
+        "NO" : 60,
+        "Nama_Pemetaan" : "Lisa Laundry",
+        "DD(Y)" : 0.47063232025755802,
+        "DD(X)" : 101.37195507202399,
+        "Alamat" : "Pekanbaru, Simpang Baru, Tampan, Pekanbaru City, Riau 28293",
+        "Informasi Kontak" : "0812-7543-8062",
+        "Gambar" : "lisalaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.37205355870501,
+          0.46967477727028001
+        ]
+      },
+      "properties" : {
+        "NO" : 61,
+        "Nama_Pemetaan" : "Mijaya Laundry Express",
+        "DD(Y)" : 0.46967477727028001,
+        "DD(X)" : 101.37205355870501,
+        "Alamat" : "JL. Merpati Sakti Blok : Melati Panam Indah No. 2, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293, ",
+        "Informasi Kontak" : "0813-6111-7600",
+        "Gambar" : "mijayalaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.37707522604499,
+          0.46193963873258298
+        ]
+      },
+      "properties" : {
+        "NO" : 62,
+        "Nama_Pemetaan" : "Delta Laundry",
+        "DD(Y)" : 0.46193963873258298,
+        "DD(X)" : 101.37707522604499,
+        "Alamat" : "Jl. Swakarya Kelurahan No.mor 10, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : "0812-8334-1612",
+        "Gambar" : "deltalaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.38077680000001,
+          0.46040347120000003
+        ]
+      },
+      "properties" : {
+        "NO" : 63,
+        "Nama_Pemetaan" : "Elen Laundry",
+        "DD(Y)" : 0.46040347120000003,
+        "DD(X)" : 101.38077680000001,
+        "Alamat" : "Jl. Swakarya, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : "0852-6525-7950",
+        "Gambar" : "elenlaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.371894,
+          0.47513915499999998
+        ]
+      },
+      "properties" : {
+        "NO" : 64,
+        "Nama_Pemetaan" : "Temen nyuci Laundry",
+        "DD(Y)" : 0.47513915499999998,
+        "DD(X)" : 101.371894,
+        "Alamat" : "Jl. Merpati Sakti, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28292",
+        "Informasi Kontak" : "0822-6893-2091",
+        "Gambar" : "temenlaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.37209919999999,
+          0.468240453
+        ]
+      },
+      "properties" : {
+        "NO" : 65,
+        "Nama_Pemetaan" : "Zacky Laundry",
+        "DD(Y)" : 0.468240453,
+        "DD(X)" : 101.37209919999999,
+        "Alamat" : "Jl. Merpati Sakti, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : "-",
+        "Gambar" : "zackylaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.37181910142699,
+          0.47481105816095698
+        ]
+      },
+      "properties" : {
+        "NO" : 66,
+        "Nama_Pemetaan" : "Kafeel Laundry",
+        "DD(Y)" : 0.47481105816095698,
+        "DD(X)" : 101.37181910142699,
+        "Alamat" : "Jl. Merpati Sakti No.Kelurahan, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : null,
+        "Gambar" : "kafeellaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.372045860138,
+          0.47231052217755898
+        ]
+      },
+      "properties" : {
+        "NO" : 67,
+        "Nama_Pemetaan" : "Dyas Laundry",
+        "DD(Y)" : 0.47231052217755898,
+        "DD(X)" : 101.372045860138,
+        "Alamat" : "Jl. Merpati Sakti, Kec. Tampan, Kota Pekanbaru, No.22 Simpang Baru, Riau 28293 ",
+        "Informasi Kontak" : "0813-7879-7215",
+        "Gambar" : "dyaslaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.37209148927499,
+          0.47046028740977602
+        ]
+      },
+      "properties" : {
+        "NO" : 68,
+        "Nama_Pemetaan" : "Abay Laundry",
+        "DD(Y)" : 0.47046028740977602,
+        "DD(X)" : 101.37209148927499,
+        "Alamat" : "Jl. Merpati Sakti, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : "0813-6620-9442",
+        "Gambar" : "abaylaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4360521297,
+          0.48226395350000001
+        ]
+      },
+      "properties" : {
+        "NO" : 69,
+        "Nama_Pemetaan" : "Load Laundry ",
+        "DD(Y)" : 0.48226395350000001,
+        "DD(X)" : 101.4360521297,
+        "Alamat" : "Jl. Karya I, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
+        "Informasi Kontak" : "0821-7248-8861",
+        "Gambar" : "loadLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.453486794463,
+          0.4515280015
+        ]
+      },
+      "properties" : {
+        "NO" : 70,
+        "Nama_Pemetaan" : "Tasha Laundry ",
+        "DD(Y)" : 0.4515280015,
+        "DD(X)" : 101.453486794463,
+        "Alamat" : "Jl. Air Dingin No.2, Kelurahan Air Dingin, Kec. Bukit Raya, Kota Pekanbaru, Riau 28288",
+        "Informasi Kontak" : "82288899112",
+        "Gambar" : "tashalaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45947501720001,
+          0.44740243790000001
+        ]
+      },
+      "properties" : {
+        "NO" : 71,
+        "Nama_Pemetaan" : "Forty Seven",
+        "DD(Y)" : 0.44740243790000001,
+        "DD(X)" : 101.45947501720001,
+        "Alamat" : "CFW5+XQ4, Jl. Air Dingin III, Simpang Tiga, Kec. Bukit Raya, Kota Pekanbaru, Riau 28284",
+        "Informasi Kontak" : "82173515200",
+        "Gambar" : "fortysevenlaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.458822734129,
+          0.4511470964
+        ]
+      },
+      "properties" : {
+        "NO" : 72,
+        "Nama_Pemetaan" : "Direct Clean Laundry",
+        "DD(Y)" : 0.4511470964,
+        "DD(X)" : 101.458822734129,
+        "Alamat" : "jl. Air Dingin I (Lestari, Ujung Ruko No.4, Kota Pekanbaru, Riau 28284",
+        "Informasi Kontak" : "82387305221",
+        "Gambar" : "directlaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43600055599001,
+          0.44357812940000002
+        ]
+      },
+      "properties" : {
+        "NO" : 73,
+        "Nama_Pemetaan" : "HD Laundry",
+        "DD(Y)" : 0.44357812940000002,
+        "DD(X)" : 101.43600055599001,
+        "Alamat" : "Gg. Serumpun Jl. Kartama No.4b, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289",
+        "Informasi Kontak" : "85374308052",
+        "Gambar" : "HDLaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.443190032202,
+          0.44382261499999998
+        ]
+      },
+      "properties" : {
+        "NO" : 74,
+        "Nama_Pemetaan" : "WFC Laundry Express",
+        "DD(Y)" : 0.44382261499999998,
+        "DD(X)" : 101.443190032202,
+        "Alamat" : "musholla baitul mulk, Jl. Kartama raya depan, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
+        "Informasi Kontak" : "82285572300",
+        "Gambar" : "wflaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43640231833599,
+          0.4441288397
+        ]
+      },
+      "properties" : {
+        "NO" : 75,
+        "Nama_Pemetaan" : "Super Clean Laundry",
+        "DD(Y)" : 0.4441288397,
+        "DD(X)" : 101.43640231833599,
+        "Alamat" : "Jl. Kartama No.64, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : "81364227762",
+        "Gambar" : "supercleanlaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42452832659301,
+          0.45480265419999999
+        ]
+      },
+      "properties" : {
+        "NO" : 76,
+        "Nama_Pemetaan" : "L Star Laundry ",
+        "DD(Y)" : 0.45480265419999999,
+        "DD(X)" : 101.42452832659301,
+        "Alamat" : "Jl. Inpres No.2, RT.008/RW.016, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289",
+        "Informasi Kontak" : "82353300118",
+        "Gambar" : "L-StarLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.447044809023,
+          0.4479036857
+        ]
+      },
+      "properties" : {
+        "NO" : 77,
+        "Nama_Pemetaan" : "Daffa Laundry",
+        "DD(Y)" : 0.4479036857,
+        "DD(X)" : 101.447044809023,
+        "Alamat" : "Jl. Pahlawan Kerja, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28284",
+        "Informasi Kontak" : "-",
+        "Gambar" : "daffalaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44884741511,
+          0.45296766150000001
+        ]
+      },
+      "properties" : {
+        "NO" : 78,
+        "Nama_Pemetaan" : "Duta Laundry",
+        "DD(Y)" : 0.45296766150000001,
+        "DD(X)" : 101.44884741511,
+        "Alamat" : "Jl. Pahlawan Kerja No.44, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28288",
+        "Informasi Kontak" : "81365021838",
+        "Gambar" : "dutalaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.452638544953,
+          0.45317178650000001
+        ]
+      },
+      "properties" : {
+        "NO" : 79,
+        "Nama_Pemetaan" : "Many Laundry",
+        "DD(Y)" : 0.45317178650000001,
+        "DD(X)" : 101.452638544953,
+        "Alamat" : "Jl. Air Dingin No.1, Simpang Tiga, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28288",
+        "Informasi Kontak" : "81399698889",
+        "Gambar" : "manylaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.449651613274,
+          0.45445272669999998
+        ]
+      },
+      "properties" : {
+        "NO" : 80,
+        "Nama_Pemetaan" : "Sukses Express Laundry",
+        "DD(Y)" : 0.45445272669999998,
+        "DD(X)" : 101.449651613274,
+        "Alamat" : "FC3X+PV7, Jl. Pahlawan Kerja, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
+        "Informasi Kontak" : "-",
+        "Gambar" : "sukseslaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.449880551969,
+          0.45629886269999997
+        ]
+      },
+      "properties" : {
+        "NO" : 81,
+        "Nama_Pemetaan" : "Khalif Laundry ",
+        "DD(Y)" : 0.45629886269999997,
+        "DD(X)" : 101.449880551969,
+        "Alamat" : "Jl. Pahlawan Kerja, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
+        "Informasi Kontak" : "-",
+        "Gambar" : "khaliflaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.446584737137,
+          0.44421662299999998
+        ]
+      },
+      "properties" : {
+        "NO" : 82,
+        "Nama_Pemetaan" : "Khalif 3 Laundry",
+        "DD(Y)" : 0.44421662299999998,
+        "DD(X)" : 101.446584737137,
+        "Alamat" : "CCVW+9G6, Jl. Kartama, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28284",
+        "Informasi Kontak" : "-",
+        "Gambar" : "khalif3.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.435437367568,
+          0.44369791279999998
+        ]
+      },
+      "properties" : {
+        "NO" : 83,
+        "Nama_Pemetaan" : "You Laundry",
+        "DD(Y)" : 0.44369791279999998,
+        "DD(X)" : 101.435437367568,
+        "Alamat" : "Jl. Kartama No.D3, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28282",
+        "Informasi Kontak" : "82173018084",
+        "Gambar" : "youlaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.450159186607,
+          0.45712368330000003
+        ]
+      },
+      "properties" : {
+        "NO" : 84,
+        "Nama_Pemetaan" : "Ruang Laundry ",
+        "DD(Y)" : 0.45712368330000003,
+        "DD(X)" : 101.450159186607,
+        "Alamat" : "Ruko Ruang Laundry, Jl. Pahlawan Kerja No.32, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28288",
+        "Informasi Kontak" : "82387360822",
+        "Gambar" : "ruanglaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.423106758892,
+          0.56957649363377105
+        ]
+      },
+      "properties" : {
+        "NO" : 85,
+        "Nama_Pemetaan" : "Matahari Laundry",
+        "DD(Y)" : 0.56957649363377105,
+        "DD(X)" : 101.423106758892,
+        "Alamat" : "Jl. Patria Sari No.1, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "-",
+        "Gambar" : "mataharilaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.420607301193,
+          0.57278655588792105
+        ]
+      },
+      "properties" : {
+        "NO" : 86,
+        "Nama_Pemetaan" : "Putri Laundry",
+        "DD(Y)" : 0.57278655588792105,
+        "DD(X)" : 101.420607301193,
+        "Alamat" : "Umban Sari, Rumbai, Pekanbaru City, Riau",
+        "Informasi Kontak" : "-",
+        "Gambar" : "putrilaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.419150274071,
+          0.57326468948806897
+        ]
+      },
+      "properties" : {
+        "NO" : 87,
+        "Nama_Pemetaan" : "Dqlean Laundry",
+        "DD(Y)" : 0.57326468948806897,
+        "DD(X)" : 101.419150274071,
+        "Alamat" : "HCF9+7MR, Umban Sari, Rumbai, Pekanbaru City, Riau",
+        "Informasi Kontak" : "85376612650",
+        "Gambar" : "Dqlean.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41958586059199,
+          0.57294731205592497
+        ]
+      },
+      "properties" : {
+        "NO" : 88,
+        "Nama_Pemetaan" : "Kalis Laundry Express Bergaransi",
+        "DD(Y)" : 0.57294731205592497,
+        "DD(X)" : 101.41958586059199,
+        "Alamat" : "No 56 B, Jl. Umbansari Atas, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28265",
+        "Informasi Kontak" : "81266598077",
+        "Gambar" : "kalis.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41907883491599,
+          0.57396459165951896
+        ]
+      },
+      "properties" : {
+        "NO" : 89,
+        "Nama_Pemetaan" : "HTM Laundry (Express) 2",
+        "DD(Y)" : 0.57396459165951896,
+        "DD(X)" : 101.41907883491599,
+        "Alamat" : "Jl. Umbansari Atas No.76, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "-",
+        "Gambar" : "HTMLaundry2.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.418934521558,
+          0.574308334258258
+        ]
+      },
+      "properties" : {
+        "NO" : 90,
+        "Nama_Pemetaan" : "H&N Laundry",
+        "DD(Y)" : 0.574308334258258,
+        "DD(X)" : 101.418934521558,
+        "Alamat" : "Jl. Umbansari Atas No.76, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "81267050040",
+        "Gambar" : "H&NLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.418668546774,
+          0.58326142193652697
+        ]
+      },
+      "properties" : {
+        "NO" : 91,
+        "Nama_Pemetaan" : "Apple Laundry",
+        "DD(Y)" : 0.58326142193652697,
+        "DD(X)" : 101.418668546774,
+        "Alamat" : "Jl. Umbansari Atas No.76, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "85363078832",
+        "Gambar" : "AppleLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.417737749054,
+          0.57618472055165004
+        ]
+      },
+      "properties" : {
+        "NO" : 92,
+        "Nama_Pemetaan" : "ERY Laundry",
+        "DD(Y)" : 0.57618472055165004,
+        "DD(X)" : 101.417737749054,
+        "Alamat" : " Jl. Umbansari Atas, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28265",
+        "Informasi Kontak" : "81266005749",
+        "Gambar" : "Erylaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.415521501599,
+          0.57504048981317601
+        ]
+      },
+      "properties" : {
+        "NO" : 93,
+        "Nama_Pemetaan" : "Rafky Laundry",
+        "DD(Y)" : 0.57504048981317601,
+        "DD(X)" : 101.415521501599,
+        "Alamat" : "HCG8+255, Jl. Padat Karya, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "8,8200100001e+011",
+        "Gambar" : "RafkyLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.423127477986,
+          0.57141841928380699
+        ]
+      },
+      "properties" : {
+        "NO" : 94,
+        "Nama_Pemetaan" : "OBEN LAUNDRY",
+        "DD(Y)" : 0.57141841928380699,
+        "DD(X)" : 101.423127477986,
+        "Alamat" : "Jl. Patria Sari No.mor 6, Umban Sari, Rumbai, Pekanbaru City, Riau 28266",
+        "Informasi Kontak" : "82112502243",
+        "Gambar" : "obenglaundry.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.425520255617,
+          0.56642737536286403
+        ]
+      },
+      "properties" : {
+        "NO" : 95,
+        "Nama_Pemetaan" : "LAUNDRY EXPRES\n",
+        "DD(Y)" : 0.56642737536286403,
+        "DD(X)" : 101.425520255617,
+        "Alamat" : "Jl. Rowo Sari, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "-",
+        "Gambar" : "laundryexpress.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.425903223205,
+          0.56533534406066699
+        ]
+      },
+      "properties" : {
+        "NO" : 96,
+        "Nama_Pemetaan" : "EVI LAUNDRY",
+        "DD(Y)" : 0.56533534406066699,
+        "DD(X)" : 101.425903223205,
+        "Alamat" : "Jl. Perum Padi Mas 2, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Informasi Kontak" : "82384723933",
+        "Gambar" : "EviLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.421737974309,
+          0.570762320810414
+        ]
+      },
+      "properties" : {
+        "NO" : 97,
+        "Nama_Pemetaan" : "Zona Laundry",
+        "DD(Y)" : 0.570762320810414,
+        "DD(X)" : 101.421737974309,
+        "Alamat" : "Jl. Mayasari No.1, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28265",
+        "Informasi Kontak" : "81371942874",
+        "Gambar" : "ZonaLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44203584887801,
+          0.56270162076114305
+        ]
+      },
+      "properties" : {
+        "NO" : 98,
+        "Nama_Pemetaan" : "FORTUNA LAUNDRY",
+        "DD(Y)" : 0.56270162076114305,
+        "DD(X)" : 101.44203584887801,
+        "Alamat" : "Limbungan Baru, Rumbai Pesisir, Pekanbaru City, Riau 28266",
+        "Informasi Kontak" : "85211985568",
+        "Gambar" : "FortunaLaundry.jpg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43771038814801,
+          0.56025238946147204
+        ]
+      },
+      "properties" : {
+        "NO" : 99,
+        "Nama_Pemetaan" : "Si Mbak Laundry",
+        "DD(Y)" : 0.56025238946147204,
+        "DD(X)" : 101.43771038814801,
+        "Alamat" : "Jl. Pembangunan, Limbungan Baru, Kec. Rumbai Pesisir, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "85263776823",
+        "Gambar" : "simbak.png"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43773948102699,
+          0.56173940626290697
+        ]
+      },
+      "properties" : {
+        "NO" : 100,
+        "Nama_Pemetaan" : "Mitra Laundry",
+        "DD(Y)" : 0.56173940626290697,
+        "DD(X)" : 101.43773948102699,
+        "Alamat" : "Jl. Pembangunan, Limbungan Baru, Kec. Rumbai Pesisir, Kota Pekanbaru, Riau 28266",
+        "Informasi Kontak" : "82283680522",
+        "Gambar" : "mitralaundry.png"
+      }
+    }
+  ]
+}

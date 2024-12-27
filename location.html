@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://openlayers.org/avicon.ico"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OpenLayers</title>
+  </head>
+
+  <body class="no-scroll-bar">
+    <nav
+      class="w-full bg-white text-[#129BFA] shadow fixed top-0 left-0 right-0 z-50"
+    >
+      <div class="flex items-center justify-between sm:px-12 py-3">
+        <div class="flex items-center">
+          <img src="./icon/logo.svg" class="w-[60px] h-[60px]" alt="Logo" />
+          <h1 class="text-xl font-semibold">Sila</h1>
+        </div>
+        <div class="flex items-center gap-5">
+          <a href="index.html" class="nav-menu-link">Home</a>
+          <a href="location.html" class="nav-menu-link">Location</a>
+        </div>
+      </div>
+    </nav>
+
+    <div class="mt-28">
+      <div class="flex flex-col justify-center items-center">
+        <h1 class="text-3xl font-semibold text-[#129BFA] text-center">
+          PETA PERSEBARAN LAUNDRY PEKANBARU
+        </h1>
+
+        <div
+          class="flex w-full md:w-1/2 mt-5 bg-[#EEF3F8] p-2 justify-between px-10 rounded-lg shadow-lg"
+        >
+          <input
+          id="search-input"
+            type="text"
+            placeholder="Cari laundry di sini"
+            class="bg-transparent focus:outline-none placeholder:text-[#129BFA] w-full text-gray-800"
+          />
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="text-[#129BFA] w-8 h-8 pointer-events-none"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M21 21l-4.35-4.35m2.35-6.65a7 7 0 11-14 0 7 7 0 0114 0z"
+            />
+          </svg>
+        </div>
+      </div>
+
+      <div class="mt-10" id="map"></div>
+    </div>
+
+    <footer class="mt-[700px] p-10 bg-white text-[#129BFA]">
+      <div class="container mx-auto flex flex-col items-center">
+        <div class="text-center mb-8">
+          <img src="icon/logo.svg" alt="Sila Logo" class="w-16 h-16 mx-auto" />
+          <h1 class="text-2xl font-bold mt-2">Sila</h1>
+        </div>
+
+        <div class="flex flex-wrap justify-center gap-6 mb-8">
+          <a href="#" class="hover:underline text-lg">Home</a>
+          <a href="#" class="hover:underline text-lg">About</a>
+          <a href="#" class="hover:underline text-lg">Services</a>
+          <a href="#" class="hover:underline text-lg">Contact Us</a>
+        </div>
+
+        <div class="flex gap-6 mb-8">
+          <a
+            href="#"
+            class="w-12 h-12 rounded-full bg-[#129BFA] text-white flex items-center justify-center hover:bg-[#0a7bc2] transition"
+          >
+            <span class="font-semibold text-sm">Dr</span>
+          </a>
+          <a
+            href="#"
+            class="w-12 h-12 rounded-full bg-[#129BFA] text-white flex items-center justify-center hover:bg-[#0a7bc2] transition"
+          >
+            <span class="font-semibold text-sm">Be</span>
+          </a>
+          <a
+            href="#"
+            class="w-12 h-12 rounded-full bg-[#129BFA] text-white flex items-center justify-center hover:bg-[#0a7bc2] transition"
+          >
+            <span class="font-semibold text-sm">Lg</span>
+          </a>
+          <a
+            href="#"
+            class="w-12 h-12 rounded-full bg-[#129BFA] text-white flex items-center justify-center hover:bg-[#0a7bc2] transition"
+          >
+            <span class="font-semibold text-sm">Tw</span>
+          </a>
+        </div>
+      </div>
+    </footer>
+    <div class="text-center text-sm border border-t-[#129BFA] w-full p-4">
+      <p>© 2024 Sila. All Rights Reserved.</p>
+    </div>
+
+    <div class="overlay-container">
+      <label>
+        <input type="checkbox" id="polygon" checked />
+        Polygon Prov Riau
+      </label>
+      <label>
+        <input type="checkbox" id="point" checked />
+        Titik Persebaran Laundry
+      </label>
+      <label>
+        <br />
+        <h5>Info:</h5>
+        <div id="info">&nbsp;</div>
+
+      </label>
+    </div>
+
+    <div id="popup" class="ol-popup">
+      <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+      <div id="popup-content"></div>
+    </div>
+
+    <script type="module" src="./main.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

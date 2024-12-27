@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="https://openlayers.org/avicon.ico"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OpenLayers</title>
+  </head>
+  <body class="font-sans antialiased bg-gray-100 no-scroll-bar">
+    <nav
+      class="w-full bg-white text-[#129BFA] shadow fixed top-0 left-0 right-0 z-[99999]"
+    >
+      <div class="flex items-center justify-between sm:px-12 py-3">
+        <div class="flex items-center">
+          <img src="./icon/logo.svg" class="w-[60px] h-[60px]" alt="Logo" />
+          <h1 class="text-xl font-semibold">Sila</h1>
+        </div>
+        <div class="flex items-center gap-5">
+          <a href="index.html" class="nav-menu-link">Home</a>
+          <a href="location.html" class="nav-menu-link">Location</a>
+        </div>
+      </div>
+    </nav>
+
+    <div
+      style="background-image: url('img/bg_img.jpg')"
+      class="mt-20 h-screen bg-cover bg-center relative flex items-center"
+    >
+      <div
+        class="absolute inset-0 bg-gradient-to-b from-[#6F8FAF] to-white opacity-60"
+      ></div>
+      <div
+        class="container relative mx-auto flex flex-col lg:flex-row items-center justify-center px-4 text-white"
+      >
+        <div class="mb-6 lg:mb-0">
+          <img
+            class="w-[400px] md:w-[500px] lg:w-[550px] h-auto"
+            src="./icon/hero.png"
+            alt="Hero Image"
+          />
+        </div>
+
+        <div class="max-w-3xl">
+          <h1 class="text-3xl lg:text-4xl font-bold mb-4 leading-tight">
+            SISTEM INFORMASI GEOGRAFIS PERSEBARAN LAUNDRY DI PEKANBARU
+          </h1>
+          <p class="text-white text-xl leading-relaxed">
+            Selamat datang di Sistem Informasi Geografis (SIG) Persebaran
+            Laundry di Pekanbaru! Website ini menyajikan peta interaktif yang
+            menampilkan lokasi-lokasi laundry di seluruh kota Pekanbaru. Dengan
+            SIG ini, pengguna dapat dengan mudah menemukan laundry terdekat
+            berdasarkan lokasi mereka, melihat detail layanan yang ditawarkan,
+            hingga mendapatkan rute terbaik menuju lokasi laundry pilihan. Kami
+            berharap platform ini membantu mempermudah Anda dalam menemukan
+            layanan laundry dengan cepat dan efisien.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="p-10 sm:p-60">
+      <div class="flex flex-col justify-center items-center gap-5">
+        <h1 class="text-[#129BFA] text-4xl font-semibold">
+          Layanan Layanan Yang Tersedia Pada Toko
+        </h1>
+        <div>
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-4">
+            <div class="relative rounded-xl">
+              <img
+                src="img/layanan1.jpg"
+                class="object-cover h-[200px] w-full rounded-xl"
+                alt=""
+              />
+              <div
+                class="absolute inset-0 bg-gradient-to-b from-[#6F8FAF] to-white opacity-80 rounded-xl"
+              ></div>
+              <h1 class="absolute top-2 left-2 text-white font-semibold">
+                Dry Cleaning
+              </h1>
+            </div>
+            <div class="relative rounded-xl">
+              <img
+                src="img/layanan2.jpg"
+                class="object-cover h-[200px] w-full rounded-xl"
+                alt=""
+              />
+              <div
+                class="absolute inset-0 bg-gradient-to-b from-[#6F8FAF] to-white opacity-80 rounded-xl"
+              ></div>
+              <h1 class="absolute top-2 left-2 text-white font-semibold">
+                Wash & Fold
+              </h1>
+            </div>
+            <div class="relative">
+              <img
+                src="img/layanan3.jpg"
+                class="object-cover h-[200px] w-full rounded-xl"
+                alt=""
+              />
+              <div
+                class="absolute inset-0 bg-gradient-to-b from-[#6F8FAF] to-white opacity-80 rounded-xl"
+              ></div>
+              <h1 class="absolute top-2 left-2 text-white font-semibold">
+                Shoe Cleaning
+              </h1>
+            </div>
+            <div class="relative rounded-xl">
+              <img
+                src="img/layanan4.jpg"
+                class="object-cover h-[200px] w-full rounded-xl"
+                alt=""
+              />
+              <div
+                class="absolute inset-0 bg-gradient-to-b from-[#6F8FAF] to-white opacity-80 rounded-xl"
+              ></div>
+              <h1 class="absolute top-2 left-2 text-white font-semibold">
+                Carpet & Upholstery
+              </h1>
+            </div>
+          </div>
+        </div>
+
+        <h2 class="text-[#129BFA] sm:w-[800px] mt-24 text-center text-xl">
+          Website ini memberikan lokasi laundry yang berisikan berbagai
+          layanan-layanan yang terdiri dari Dry Cleaning, Wash & Fold, Shoe
+          Cleaning, dan Carpet & Upholstery. bagi teman-teman yang ingin
+          menemukan daerah tempat laundry dengan cepat, website kami adalah
+          solusi yang anda cari.
+        </h2>
+      </div>
+    </div>
+
+    <div class="bg-[#DFEFF4] flex justify-center p-10 sm:p-40">
+      <div
+        class="text-[#129BFA] sm:w-[800px] flex flex-col justify-center items-center text-center gap-5"
+      >
+        <h1 class="font-semibold text-4xl">Tujuan</h1>
+        <p class="text-xl">
+          Tujuan dari website Sistem Informasi Geografis Persebaran Laundry di
+          Pekanbaru adalah untuk memberikan kemudahan bagi masyarakat dalam
+          mencari dan menemukan layanan laundry terdekat secara cepat dan
+          efisien. Melalui peta interaktif yang informatif, kami berupaya
+          mendukung kebutuhan harian warga Pekanbaru dengan menyediakan akses
+          lokasi yang akurat serta detail layanan dari setiap laundry yang
+          terdaftar. Semoga platform ini dapat membantu mempermudah keseharian
+          Anda!
+        </p>
+      </div>
+    </div>
+
+    <div id="footer" class="p-10 mt-20 text-[#129BFA]">
+      <div class="container mx-auto flex flex-col items-center">
+        <div class="text-center mb-8">
+          <img src="icon/logo.svg" alt="Sila Logo" class="w-16 h-16 mx-auto" />
+          <h1 class="text-2xl font-bold mt-2">Sila</h1>
+        </div>
+
+        <div class="flex flex-wrap justify-center gap-6 mb-8">
+          <a href="#" class="hover:underline text-lg">Home</a>
+          <a href="#" class="hover:underline text-lg">About</a>
+          <a href="#" class="hover:underline text-lg">Services</a>
+          <a href="#" class="hover:underline text-lg">Contact Us</a>
+        </div>
+
+        <div class="flex gap-6 mb-8">
+          <a
+            href="#"
+            class="w-12 h-12 rounded-full bg-[#129BFA] text-white flex items-center justify-center hover:bg-[#0a7bc2] transition"
+          >
+            <span class="font-semibold text-sm">Dr</span>
+          </a>
+          <a
+            href="#"
+            class="w-12 h-12 rounded-full bg-[#129BFA] text-white flex items-center justify-center hover:bg-[#0a7bc2] transition"
+          >
+            <span class="font-semibold text-sm">Be</span>
+          </a>
+          <a
+            href="#"
+            class="w-12 h-12 rounded-full bg-[#129BFA] text-white flex items-center justify-center hover:bg-[#0a7bc2] transition"
+          >
+            <span class="font-semibold text-sm">Lg</span>
+          </a>
+          <a
+            href="#"
+            class="w-12 h-12 rounded-full bg-[#129BFA] text-white flex items-center justify-center hover:bg-[#0a7bc2] transition"
+          >
+            <span class="font-semibold text-sm">Tw</span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="text-center text-sm border border-t-[#129BFA] w-full p-4">
+      <p>© 2024 Sila. All Rights Reserved.</p>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
