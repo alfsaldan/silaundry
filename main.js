@@ -126,14 +126,14 @@ laundry.getSource().on('featuresloadend', () => {
       const namaLaundry = feature.get('Nama_Pemetaan');
       const alamatLaundry = feature.get('Alamat');
       const kontakLaundry = feature.get('Informasi Kontak')
-      const deskripsiLaundry = feature.get("Deskripsi");
+      const detailLaundry = feature.get("Informasi Detail");
       const gambar = feature.get("Gambar")
 
       // Masukkan data ke elemen HTML
       const namaLaundryText = document.getElementById("nama_laundry");
       const alamatLaundryText = document.getElementById("alamat");
       const kontakLaundryText = document.getElementById("informasi_kontak");
-      const deskripsiLaundryText = document.getElementById("deskripsi");
+      const detailLaundryText = document.getElementById("informasi_detail");
       let gambarLaundryImg = document.querySelectorAll(".gambar")
 
 
@@ -144,13 +144,14 @@ laundry.getSource().on('featuresloadend', () => {
       namaLaundryText.innerHTML = namaLaundry || 'Nama tidak ditemukan';
       alamatLaundryText.innerHTML = alamatLaundry || 'Alamat tidak ditemukan';
       kontakLaundryText.innerHTML = kontakLaundry || 'Kontak tidak ditemukan';
-      deskripsiLaundryText.innerHTML = deskripsiLaundry || 'Deskripsi tidak ditemukan'
-      k
+      detailLaundryText.innerHTML = detailLaundry || 'Deskripsi tidak ditemukan'
+      
     } else {
       // Jika tidak ada fitur yang cocok
       namaLaundryText.innerHTML = 'Tidak ditemukan';
       kontakLaundryText.innerHTML ='Tidak ditemukan';
       alamatLaundryText.innerHTML = 'Tidak ditemukan';
+      detailLaundryText.innerHTML = 'Tidak ditemukan';
     }
   }
 });

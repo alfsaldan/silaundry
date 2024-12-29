@@ -18,7 +18,7 @@
         "Alamat" : "HCCC+5GH, Umban Sari, Rumbai, Pekanbaru City, Riau 28266",
         "Informasi Kontak" : "81233014725",
         "Gambar" : "HappyLaundry.jpg",
-        "Informasi Detail" : " Jam Buka : 08.00 - 21.00 \nHarga Per Kg : 8.000 \nLayanan Yang Tersedia \n1.Cuci  \n2.Pengeringan \n3.Cuci dan Gosok \n4.Cuci Sepatu \n5.Boneka"
+        "Informasi Detail" : " Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 8.000 <br>Layanan Yang Tersedia <br>1.Cuci  <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Cuci Sepatu <br>5.Boneka"
 
       }
     },
@@ -38,7 +38,9 @@
         "DD(X)" : 101.42416889555,
         "Alamat" : "Jl. Umban Sari No.69, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : null,
-        "Gambar" : "KembarLaundry.jpg"
+        "Gambar" : "KembarLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.00 - 21.00 <br>Harga Per Kg 1 Hari : 7.000 <br>Layanan Yang Tersedia <br>1. Express (4 jam) : 10.000 <br>2. Express (8 jam) : 8.000 <br>3. Sprei, Bed Cover (satuan) : 20.000 <br>4. Jas (satu set) : 30.000"
+
       }
     },
     {
@@ -57,7 +59,9 @@
         "DD(X)" : 101.42273368497,
         "Alamat" : "Umban Sari, Rumbai, Pekanbaru City, Riau",
         "Informasi Kontak" : null,
-        "Gambar" : "kahfiraL.jpg"
+        "Gambar" : "kahfiraL.jpg",
+        "Informasi Detail": "Jam Buka : 09.00 - 20.00 <br>Harga Per Kg : 4.000 <br>Layanan Yang Tersedia <br>1. Express (kilat) : 8.000/kg <br>2. Cuci : 4.000 <br>3. Gosok : 4.000"
+
       }
     },
     {
@@ -76,7 +80,9 @@
         "DD(X)" : 101.41982518412399,
         "Alamat" : "Jl. Arwana No.05, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "82386293770",
-        "Gambar" : "Risal.jpg"
+        "Gambar" : "Risal.jpg",
+        "Informasi Detail": "Jam Buka : 07.00 - 21.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1. Cuci Gosok (3 hari per kilo) : 6.000 <br>2. Cuci Saja : 4.000 <br>3. Gosok Saja : 4.000 <br>4. Express (1 hari) : 10.000 <br>5. Bed Cover (per lembar) : Keluarga 35.000, Lajang 20.000, Polos Biasa : 15.000"
+
       }
     },
     {
@@ -95,7 +101,9 @@
         "DD(X)" : 101.42530243918399,
         "Alamat" : "Jl. Tegalsari No.64, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28264",
         "Informasi Kontak" : "82169142556",
-        "Gambar" : "RcLaundry.jpg"
+        "Gambar" : "RcLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 09.00 <br>Harga Per Kg : 7.000 <br>Layanan Yang Tersedia <br>1. Cuci, Gosok <br>2. Cuci Gosok <br>3. Express (6 jam) : 10.000 <br>4. Selimut, Bedcover, Sprei <br>5. Pembayaran Bisa QR"
+
       }
     },
     {
@@ -114,7 +122,9 @@
         "DD(X)" : 101.426774745437,
         "Alamat" : "HC8G+5QC, Jl. Tegalsari, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "81363046882",
-        "Gambar" : "HTMLAundru.jpg"
+        "Gambar" : "HTMLAundru.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 09.00 <br>Harga Per Kg : 7.000 <br>Layanan Yang Tersedia <br>1. Cuci, Gosok <br>2. Cuci Gosok <br>3. Express (6 jam) : 10.000 <br>4. Selimut, Bedcover, Sprei <br>5. Pembayaran Bisa QR"
+
       }
     },
     {
@@ -133,7 +143,9 @@
         "DD(X)" : 101.42490322971599,
         "Alamat" : "HC8F+2X Umban Sari, Pekanbaru City, Riau",
         "Informasi Kontak" : "-",
-        "Gambar" : "2PutriLaundry.jpg"
+        "Gambar" : "2PutriLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 09.00 - 21.00 <br>Harga Per Kg : 4.500 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Bed Cover <br>5.Bed Cover <br>6.Bed Cover"
+
       }
     },
     {
@@ -152,7 +164,9 @@
         "DD(X)" : 101.419078688147,
         "Alamat" : "Umban Sari, Rumbai, Pekanbaru City, Riau 28266",
         "Informasi Kontak" : "85274073751",
-        "Gambar" : "TalagoBiruLaundry.jpg"
+        "Gambar" : "TalagoBiruLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 08.30 - 20.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1.Cuci Kering : 5.000 <br>2.Gosok : 4.000 <br>3.Cuci dan Gosok : 6.000 <br>4.Bedcover Tergantung Ukuran : Keluarga : 10.000, Lajang : 5.000 <br>5.Bedcover : Jumbo : 30.000, Menengah : 25.000, Lajang : 20.000 <br>6.Express : Naik 1.000 <br>7.Bisa Memilih Jenis Parfum Laundry"
+
       }
     },
     {
@@ -171,7 +185,9 @@
         "DD(X)" : 101.437794800942,
         "Alamat" : "Jl. Yos Sudarso No.samping, tugu lama, Kec. Rumbai, Kota Pekanbaru, Riau 27292",
         "Informasi Kontak" : "\n0822-8573-3166",
-        "Gambar" : "shinelaundry.png"
+        "Gambar" : "shinelaundry.png",
+        "Informasi Detail": "Jam Buka : 08.00 - 22.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci + Setrika : Rp 5.000 <br>2.Setrika Uap : Rp 3.000 <br>3.Cuci Aja : Rp 3.000 <br>4.Express (1 Hari Siap) : Rp 6.500 <br>5.Bed Cover : Rp 25.000 <br>6.Selimut : Rp 10.000 <br>7.Sprei : Rp 10.000 <br>8.Dll (Boneka, Tas, Sepatu) : Rp 10.000"
+
       }
     },
     {
@@ -190,7 +206,9 @@
         "DD(X)" : 101.41929191358901,
         "Alamat" : "HC99+HP7, Jl. Bukit Sari, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "81270905680 / 0812 7000 5000-0053 ",
-        "Gambar" : "saidlaundry.png"
+        "Gambar" : "saidlaundry.png",
+        "Informasi Detail": "Jam Buka : 08.00 - 23.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci Setrika : Rp 5.000/kg <br>2.Setrika : Rp 3.000/kg <br>3.Cuci : Rp 3.000/kg <br>4.Bed Cover : Rp 10.000/kg <br>5.Sprei : Rp 10.000/kg <br>6.Gorden : Rp 10.000/kg"
+
       }
     },
     {
@@ -209,7 +227,9 @@
         "DD(X)" : 101.418468218817,
         "Alamat" : "GCP9+29 Air Hitam, Pekanbaru City, Riau",
         "Informasi Kontak" : "8117676606",
-        "Gambar" : "premiumlaundryekspess.png"
+        "Gambar" : "premiumlaundryekspess.png",
+        "Informasi Detail": "Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci Express Siap 4 Jam : Rp 5.000/kg <br>2.Cuci Premium Siap 1 Hari : Rp 7.000/kg"
+
       }
     },
     {
@@ -228,7 +248,9 @@
         "DD(X)" : 101.425721939426,
         "Alamat" : "HC8G+478, Jl. Tegalsari, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "81277531155",
-        "Gambar" : "latansalaundry.png"
+        "Gambar" : "latansalaundry.png",
+        "Informasi Detail": "Jam Buka : 08.00 - 23.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Ada Layanan Cuci Satuan untuk Pakaian Khusus seperti Baju Putih atau Seragam Kerja <br>2.Dry Clean : Layanan Cuci untuk Pakaian Bermaterial Mewah & Ringkih seperti Bahan Wol atau Sutra, Jas, Tas, Sepatu <br>3.Spotting : Layanan untuk Menghilangkan Noda Berat pada Pakaian (Darah, Tinta, Karat, Luntur, Oli)"
+
       }
     },
     {
@@ -247,7 +269,9 @@
         "DD(X)" : 101.426575274797,
         "Alamat" : "Jalan Berdikari Ujung, Kelurahan No.3A, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "85363015023",
-        "Gambar" : "NayaLaundry.png"
+        "Gambar" : "NayaLaundry.png",
+        "Informasi Detail": "Jam Buka : 08.00 - 23.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci Setrika Selimut <br>2.Setrika <br>3.Gorden <br>4.Cuci Express <br>5.Bed Cover <br>6.Dll"
+
       }
     },
     {
@@ -266,7 +290,9 @@
         "DD(X)" : 101.421331585774,
         "Alamat" : "HCCC+FG Umban Sari, Pekanbaru City, Riau",
         "Informasi Kontak" : "81277439190",
-        "Gambar" : "Laundry2Putra.png"
+        "Gambar" : "Laundry2Putra.png",
+        "Informasi Detail": "Jam Buka : 09.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Bed Cover <br>5.Helm <br>6.Sepatu <br>7.Boneka <br>8.Karpet <br>9.Dll"
+
       }
     },
     {
@@ -285,7 +311,9 @@
         "DD(X)" : 101.424901193528,
         "Alamat" : "Jalan Berdikari, Kelurahan No.Ujung, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "81268903293",
-        "Gambar" : "BundaLaundry.png"
+        "Gambar" : "BundaLaundry.png",
+        "Informasi Detail": "Jam Buka : 09.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Dll"
+
       }
     },
     {
@@ -304,7 +332,9 @@
         "DD(X)" : 101.414523617757,
         "Alamat" : "Jl. Kartika Sari, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28265",
         "Informasi Kontak" : "81364279077",
-        "Gambar" : "KalisLaundry.png"
+        "Gambar" : "KalisLaundry.png",
+        "Informasi Detail": "Jam Buka : 09.00 - 23.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Dll"
+
       }
     },
     {
@@ -323,7 +353,9 @@
         "DD(X)" : 101.425362566429,
         "Alamat" : "HC8G+94Q, Jl. Rowo Sari, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : null,
-        "Gambar" : "AldoLaundry.png"
+        "Gambar" : "AldoLaundry.png",
+        "Informasi Detail": "Jam Buka : 09.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok"
+
       }
     },
     {
@@ -342,7 +374,9 @@
         "DD(X)" : 101.42297500000001,
         "Alamat" : "Jl. Bakti No.Kelurahan, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28282",
         "Informasi Kontak" : "6,2821999952e+012",
-        "Gambar" : "CingkyLaundry.jpg"
+        "Gambar" : "CingkyLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.00 - 21.00 <br>Harga Start From/kg : 4.500 <br>Layanan Yang Tersedia (Express & Non) <br>1.Cuci Lipat Rapi <br>2.Cuci Setrika Wangi <br>3.Setrika Wangi <br>4.Dll"
+
       }
     },
     {
@@ -361,7 +395,9 @@
         "DD(X)" : 101.42315833333333,
         "Alamat" : "Jl. Bakti No.Kel C5, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28292",
         "Informasi Kontak" : "6,2852720202e+012",
-        "Gambar" : "TopklinLaundry.jpg"
+        "Gambar" : "TopklinLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.00 - 20.00 <br>Harga Start From/kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci Lipat <br>2.Cuci Setrika <br>3.Setrika Only <br>4.Dll"
+
       }
     },
     {
@@ -380,7 +416,9 @@
         "DD(X)" : 101.44536111111111,
         "Alamat" : "Jl. Garuda, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
         "Informasi Kontak" : "6,2877356392e+012",
-        "Gambar" : "GarisLaundry.jpg"
+        "Gambar" : "GarisLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.00 - 21.00 <br>Harga Start From/kg : 4.500 <br>Layanan Yang Tersedia <br>1.Cuci Satuan <br>2.Cuci Sepatu <br>3.Cuci dan Gosok <br>4.Dll"
+
       }
     },
     {
@@ -399,7 +437,9 @@
         "DD(X)" : 101.43655833333334,
         "Alamat" : "Jl. Paus, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28282",
         "Informasi Kontak" : "6,2813787386e+012",
-        "Gambar" : "YESsLaundry.jpg"
+        "Gambar" : "YESsLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 21.00 <br>Harga Start From/kg : 6.000 <br>Layanan Yang Tersedia <br>1.Cuci Kering <br>2.Setrika <br>3.Cuci Setrika <br>4.Dll"
+
       }
     },
     {
@@ -418,7 +458,9 @@
         "DD(X)" : 101.429525,
         "Alamat" : "Jl. Bakti, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau",
         "Informasi Kontak" : "6,2812761071e+012",
-        "Gambar" : "LuxLaundry.jpg"
+        "Gambar" : "LuxLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.00 - 21.00 <br>Harga Start From/kg : 4.500 <br>Layanan Yang Tersedia (Express & Non) <br>1.Cuci Lipat <br>2.Cuci Setrika <br>3.Setrika <br>4.Dll"
+
       }
     },
     {
@@ -437,7 +479,9 @@
         "DD(X)" : 101.43850277777779,
         "Alamat" : "Jl. Paus No.561-A P, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
         "Informasi Kontak" : "6,289950008e+011",
-        "Gambar" : "LalaLaundry.jpg"
+        "Gambar" : "LalaLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.00 - 22.00 <br>Harga Start From/kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci Setrika <br>2.Cuci Lipat <br>3.Setrika <br>4.Dll"
+
       }
     },
     {
@@ -456,7 +500,9 @@
         "DD(X)" : 101.42455555555556,
         "Alamat" : "Jl. Inpres No.2, RT.008/RW.016, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289",
         "Informasi Kontak" : "6,2823533001e+012",
-        "Gambar" : "L-StarLaundry.jpg"
+        "Gambar" : "L-StarLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 21.00 <br>Harga Start From/kg : 7.000 <br>Layanan Yang Tersedia <br>1.Cuci Lipat <br>2.Setrika <br>3.Cuci Setrika <br>4.Dll"
+
       }
     },
     {
@@ -475,7 +521,9 @@
         "DD(X)" : 101.42451944444444,
         "Alamat" : "Jl. Inpres No.67, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289",
         "Informasi Kontak" : "6,2823886538e+012",
-        "Gambar" : "VICLaundry.jpg"
+        "Gambar" : "VICLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.30 - 21.00 <br>Harga Start From/kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci Kering <br>2.Cuci Lipat <br>3.Cuci Setrika <br>4.Dll"
+
       }
     },
     {
@@ -494,7 +542,9 @@
         "DD(X)" : 101.43581388888889,
         "Alamat" : "Jl. Irkab No.15, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
         "Informasi Kontak" : "6,2895602983e+013",
-        "Gambar" : "ShafeeaLaundry.jpg"
+        "Gambar" : "ShafeeaLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.00 - 22.30 <br>Harga Start From/kg : 4.500 <br>Layanan Yang Tersedia <br>1.Cuci Setrika <br>2.Bed Cover <br>3.Sepatu <br>4.Dll"
+
       }
     },
     {
@@ -513,7 +563,9 @@
         "DD(X)" : 101.43285,
         "Alamat" : "GC2M+749, Jl. Duyung, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28124",
         "Informasi Kontak" : "6,2813647794e+012",
-        "Gambar" : "DiniLaundry.jpg"
+        "Gambar" : "DiniLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.00 - 22.00 <br>Harga Start From/kg : 3.500 <br>Layanan Yang Tersedia <br>1.Cuci Kering <br>2.Cuci Setrika <br>3.Setrika <br>4.Dll"
+
       }
     },
     {
@@ -532,7 +584,9 @@
         "DD(X)" : 101.442425,
         "Alamat" : "FCPR+5WW lion air, Jl. Garuda Ujung, RT.: 04/RW.:14, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28252",
         "Informasi Kontak" : "6,2852744026e+012",
-        "Gambar" : "AdaraLaundry.jpg"
+        "Gambar" : "AdaraLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.00 - 21.30 <br>Harga Start From/kg : 3.500 <br>Layanan Yang Tersedia <br>1.Cuci Kering <br>2.Cuci Lipat <br>3.Cuci dan Setrika <br>4.Dll"
+
       }
     },
     {
@@ -551,7 +605,9 @@
         "DD(X)" : 101.42563333333334,
         "Alamat" : "Jl. Inpres No.2A 2C, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 29125",
         "Informasi Kontak" : "6,281261133e+012",
-        "Gambar" : "DWash.jpg"
+        "Gambar" : "DWash.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 18.00 <br>Harga Start From/kg : 5.000 <br>Layanan Yang Tersedia <br>1.Pakaian <br>2.Karpet <br>3.Tas & Sepatu <br>4.Dll"
+
       }
     },
     {
@@ -570,7 +626,9 @@
         "DD(X)" : 101.43772222222222,
         "Alamat" : "Jl. KH. Ahmad Dahlan No.51A, Harjosari, Kec. Sukajadi, Kota Pekanbaru, Riau 28122",
         "Informasi Kontak" : "6,2821141744e+012",
-        "Gambar" : "laundrycare.jpg"
+        "Gambar" : "laundrycare.jpg",
+        "Informasi Detail": "Jam Buka : 07.00 - 21.00 <br>Harga Start From/kg : 5.000 <br>Layanan Cuci Yang Tersedia <br>1.Pakaian <br>2.Sepatu & Tas <br>3.Karpet & Springbed <br>4.Dll"
+
       }
     },
     {
@@ -589,7 +647,9 @@
         "DD(X)" : 101.42824722222223,
         "Alamat" : "no. 113 B, Jl. Todak, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28124",
         "Informasi Kontak" : "6,2895211496e+012",
-        "Gambar" : "centrallaundry.jpg"
+        "Gambar" : "centrallaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.30 - 20.00 <br>Harga Start From/kg : 6.000 <br>Layanan Yang Tersedia <br>1.Cuci Kering <br>2.Setrika <br>3.Cuci Setrika <br>4.Dll"
+
       }
     },
     {
@@ -608,7 +668,9 @@
         "DD(X)" : 101.44836388888889,
         "Alamat" : "Jl. Rw. Indah, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28288",
         "Informasi Kontak" : "6,2821120758e+012",
-        "Gambar" : "bestielaundry.png"
+        "Gambar" : "bestielaundry.png",
+        "Informasi Detail": "Jam Buka : 07.00 - 22.00 <br>Harga Start From/kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Setrika <br>3.Cuci Setrika <br>4.Dll"
+
       }
     },
     {
@@ -627,7 +689,9 @@
         "DD(X)" : 101.43495277777778,
         "Alamat" : "Jl. Marsan Timur Kelurahan No.08, Sidomulyo Bar., Kec. Tampan, Kota Pekanbaru, Riau 28294",
         "Informasi Kontak" : "6,2811754778e+011",
-        "Gambar" : "masterlaundrytampan.png"
+        "Gambar" : "masterlaundrytampan.png",
+        "Informasi Detail": "Jam Buka : 07.30 - 21.00 <br>Harga Start From/kg : 3.600 <br>Layanan Cuci Yang Tersedia <br>1.Cuci Satuan <br>2.Cuci Setrika <br>3.Sepatu & Tas <br>4.Dll"
+
       }
     },
     {
@@ -646,7 +710,9 @@
         "DD(X)" : 101.43915277777778,
         "Alamat" : "Jl. Paus No.31B, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28124",
         "Informasi Kontak" : "6,2813191329e+012",
-        "Gambar" : "maxpresscoinlaundry.png"
+        "Gambar" : "maxpresscoinlaundry.png",
+        "Informasi Detail": "Jam Buka : 08.00 - 21.00 <br>Harga Start From/kg : 11.000 <br>Layanan Yang Tersedia <br>1. Cuci Setrika Reguler <br>2. Cuci Setrika (Besok Selesai) <br>3. Express Laundry <br>4.Dll"
+
       }
     },
     {
@@ -665,7 +731,9 @@
         "DD(X)" : 101.406412897122,
         "Alamat" : "Jl. Karya Indah, Air Hitam, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
         "Informasi Kontak" : "82385239143",
-        "Gambar" : "SteadyLaundry.jpg"
+        "Gambar" : "SteadyLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.00 - 20.00 <br>Harga Per Kg : 3.000 (Min 5Kg) <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Cuci dan Setrika <br>5.Cuci dan Lipat <br>6.Dll"
+
       }
     },
     {
@@ -684,7 +752,9 @@
         "DD(X)" : 101.425525207519,
         "Alamat" : "samping Alfamart, Jl. Jendral, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
         "Informasi Kontak" : "81270234528",
-        "Gambar" : "HomieLaundry.jpg"
+        "Gambar" : "HomieLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 20.00 <br>Harga Per Kg : 9.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Gratis antar jemput (min 5km) <br>5.Dll"
+
       }
     },
     {
@@ -703,7 +773,9 @@
         "DD(X)" : 101.41899587108701,
         "Alamat" : "Jl. Pemuda No.48 C, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
         "Informasi Kontak" : "81226870606",
-        "Gambar" : "HomieLaundry2.jpg"
+        "Gambar" : "HomieLaundry2.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 20.00 <br>Harga Per Kg : 9.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Gratis antar jemput (min 5km) <br>5.Dll"
+
       }
     },
     {
@@ -722,7 +794,9 @@
         "DD(X)" : 101.421261984672,
         "Alamat" : "Jl. Jendral No.47B, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28251",
         "Informasi Kontak" : "81318834041",
-        "Gambar" : "QsLaundry.jpg"
+        "Gambar" : "QsLaundry.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 20.00 <br>Harga Per Kg : 7.000 (111.000 16Kg) <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Setrika <br>4.Antar baju gratis se-Pekanbaru <br>5.Memutihkan baju putih yang kotor <br>6.Dll"
+
       }
     },
     {
@@ -741,7 +815,9 @@
         "DD(X)" : 101.426141564909,
         "Alamat" : "Jl. Jendral No.3E, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28156",
         "Informasi Kontak" : "81210708838",
-        "Gambar" : "klambilaundry.jpg"
+        "Gambar" : "klambilaundry.jpg",
+        "Informasi Detail": "Jam Buka : 07.30 - 21.00 (Senin - Sabtu) <br>Jam Buka : 09.00 - 21.00 (Minggu) <br>Harga Per Kg : 7.000 (Min 3Kg) <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Setrika <br>3.Cuci dan Setrika <br>4.Cuci dan Lipat <br>5.Kering <br>6.Dll"
+
       }
     },
     {
@@ -760,7 +836,9 @@
         "DD(X)" : 101.44040384919001,
         "Alamat" : "Jl. Riau No.28, RT.001/RW007, Kp. Bandar, Kec. Senapelan, Kota Pekanbaru, Riau 28153",
         "Informasi Kontak" : "76138157",
-        "Gambar" : "nettolaundry.jpeg"
+        "Gambar" : "nettolaundry.jpeg",
+        "Informasi Detail": "Jam Buka : 07.30 - 21.00 <br>Harga Per 6Kg : 30.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Kering <br>4.Cuci Kering dan Setrika <br>5.Dll"
+
       }
     },
     {
@@ -779,7 +857,9 @@
         "DD(X)" : 101.41781903372799,
         "Alamat" : "Jl. Pemuda No.58 c, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
         "Informasi Kontak" : "85366692021",
-        "Gambar" : "stellarlaundry.jpg"
+        "Gambar" : "stellarlaundry.jpg",
+        "Informasi Detail": "Jam Buka : 06.30 - 21.00 <br>Harga Per 4Kg : 28.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Kering <br>3.Gosok <br>4.Cuci Bed Cover <br>5.Cuci Kering Lipat <br>6.Dll"
+
       }
     },
     {
@@ -798,7 +878,9 @@
         "DD(X)" : 101.423051001294,
         "Alamat" : "Jl. Pemuda No.107, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
         "Informasi Kontak" : "81275952015",
-        "Gambar" : "mamalaundry.jpg"
+        "Gambar" : "mamalaundry.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 22.00 <br>Harga Per 2Kg : 6.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Gosok <br>3.Cuci dan Gosok <br>4.Dll"
+
       }
     },
     {
@@ -817,7 +899,9 @@
         "DD(X)" : 101.425276818005,
         "Alamat" : "Jl. Durian No.38F, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28156",
         "Informasi Kontak" : "81363046882",
-        "Gambar" : "gentlelaundry.jpeg"
+        "Gambar" : "gentlelaundry.jpeg",
+        "Informasi Detail": "Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Kering <br>4.Cuci Kering dan Setrika <br>5.Cuci Helm & Topi <br>6.Cuci Selimut Bantal / Guling & Bed Cover"
+
       }
     },
     {
@@ -836,7 +920,9 @@
         "DD(X)" : 101.42113367844,
         "Alamat" : "masjid Alhamdulillah, Jl. Kayu Manis No.depan, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
         "Informasi Kontak" : "82388999817",
-        "Gambar" : "nettoexpress.jpg"
+        "Gambar" : "nettoexpress.jpg",
+        "Informasi Detail": "Jam Buka : 07.30 - 21.00 <br>Harga Per 6Kg : 30.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Kering <br>4.Cuci Kering dan Setrika"
+
       }
     },
     {
@@ -855,7 +941,9 @@
         "DD(X)" : 101.430691215698,
         "Alamat" : "Jl. Durian No.6, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28121",
         "Informasi Kontak" : "87869192254",
-        "Gambar" : "laundryclub.jpg"
+        "Gambar" : "laundryclub.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 18.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1.Cuci dan Setrika <br>2.Cuci dan Lipat <br>3.Setrika <br>4.Cuci Bed Cover <br>5.Cuci Tas <br>6.Cuci Sepatu"
+
       }
     },
     {
@@ -874,7 +962,9 @@
         "DD(X)" : 101.431109651037,
         "Alamat" : "Pemancar, Jl. Durian Gg. TVRI, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
         "Informasi Kontak" : "8116903330",
-        "Gambar" : "revolaundry.jpeg"
+        "Gambar" : "revolaundry.jpeg",
+        "Informasi Detail": "Jam Buka : 07.30 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Cuci Bed Cover & Sofa <br>5.Cuci Sepatu Tas & Boneka <br>6.Baby Gear"
+
       }
     },
     {
@@ -893,7 +983,9 @@
         "DD(X)" : 101.43282175277599,
         "Alamat" : "D-E Jl. Kulim No.16, Kp. Baru, Kec. Senapelan, Kota Pekanbaru, Riau 28292",
         "Informasi Kontak" : "81277751989",
-        "Gambar" : "rezekilaundry.jpg"
+        "Gambar" : "rezekilaundry.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 20.00 <br>Harga Per Kg : 7.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Setrika <br>5.Lipat"
+
       }
     },
     {
@@ -912,7 +1004,9 @@
         "DD(X)" : 101.439831784106,
         "Alamat" : "Jl. Durian No.38-40, Sukajadi, Kec. Sukajadi, Kota Pekanbaru, Riau 28121",
         "Informasi Kontak" : "85375441081",
-        "Gambar" : "neolaundry.jpg"
+        "Gambar" : "neolaundry.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 20.00 <br>Harga Per Kg : 8.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Antar Jemput Gratis <br>5.Cuci Sepatu"
+
       }
     },
     {
@@ -931,7 +1025,9 @@
         "DD(X)" : 101.425523532013,
         "Alamat" : "Jl. Durian No.52, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
         "Informasi Kontak" : "81270892199",
-        "Gambar" : "nettoexpress.jpg"
+        "Gambar" : "nettoexpress.jpg",
+        "Informasi Detail": "Jam Buka : 07.30 - 21.00 <br>Harga Per 6Kg : 30.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Kering <br>4.Cuci Kering dan Setrika"
+
       }
     },
     {
@@ -950,7 +1046,8 @@
         "DD(X)" : 101.432660316615,
         "Alamat" : "Jl. Kulim No.38, Kp. Baru, Kec. Pekanbaru Kota, Sebarkan, Riau 28155",
         "Informasi Kontak" : "82283534076",
-        "Gambar" : "dianalaundry.jpg"
+        "Gambar" : "dianalaundry.jpg",
+        "Informasi Detail": "Jam Buka : 06.30 - 21.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Gosok <br>5.Cuci Sepatu dan Helem"
       }
     },
     {
@@ -969,7 +1066,9 @@
         "DD(X)" : 101.431363989913,
         "Alamat" : "Jl. Kulim No.38, Kp. Baru, Kec. Pekanbaru Kota, Sebarkan, Riau 28155",
         "Informasi Kontak" : "82283534076",
-        "Gambar" : "wellalaundry.jpg"
+        "Gambar" : "wellalaundry.jpg",
+        "Informasi Detail": "Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Setrika"
+
       }
     },
     {
@@ -988,7 +1087,9 @@
         "DD(X)" : 101.3720405,
         "Alamat" : "Jl. Merpati Sakti, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28291",
         "Informasi Kontak" : "0821-7143-6416",
-        "Gambar" : "buanalaundry.png"
+        "Gambar" : "buanalaundry.png",
+        "Informasi Detail": "Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4. Cuci Helm: 5000 <br>5. Cuci Jas <br>6. Cuci Tas"
+
       }
     },
     {
@@ -1007,7 +1108,9 @@
         "DD(X)" : 101.38104730000001,
         "Alamat" : "Jl. Swakarya No.Kelurahan, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : "0812-6848-6030",
-        "Gambar" : "nadillalaundry.png"
+        "Gambar" : "nadillalaundry.png",
+        "Informasi Detail": "Jam Buka : 07.30 - 21.30 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Tersedia untuk tas, sepatu, dan helm"
+
       }
     },
     {
@@ -1026,7 +1129,9 @@
         "DD(X)" : 101.3806857,
         "Alamat" : "Jl. Swakarya, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : "0812-6864-9122",
-        "Gambar" : "almirlaundry.png"
+        "Gambar" : "almirlaundry.png",
+        "Informasi Detail": "Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok"
+
       }
     },
     {
@@ -1045,7 +1150,9 @@
         "DD(X)" : 101.37703399999999,
         "Alamat" : "Jl. Taman Karya, Tuah Karya, PANAM, Kota Pekanbaru, Riau 28292",
         "Informasi Kontak" : "0895-3868-80014",
-        "Gambar" : "laundrytime.png"
+        "Gambar" : "laundrytime.png",
+        "Informasi Detail": "Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Tersedia untuk mencuci seragam, dress, jas, handuk, sepatu, bed cover, dan boneka per item."
+
       }
     },
     {
@@ -1064,7 +1171,9 @@
         "DD(X)" : 101.372125,
         "Alamat" : "Jl. Merpati Sakti, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : "0823-8441-9506",
-        "Gambar" : "restubundalaundry.png"
+        "Gambar" : "restubundalaundry.png",
+        "Informasi Detail": "Jam Buka : 07.00 - 21.00 <br>Harga Per Kg : <br>Gosok dan Cuci : 5.000 <br>Gosok / Cuci saja : 3.500 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok"
+
       }
     },
     {
@@ -1083,7 +1192,9 @@
         "DD(X)" : 101.3720172,
         "Alamat" : "Jl. Merpati Sakti No.Kelurahan, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : "0852-7153-8883",
-        "Gambar" : "iqballaundry.png"
+        "Gambar" : "iqballaundry.png",
+        "Informasi Detail": "Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok"
+
       }
     },
     {
@@ -1102,7 +1213,9 @@
         "DD(X)" : 101.3720647,
         "Alamat" : "Jl. Merpati Sakti No.Kelurahan, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : "0896-3633-4099",
-        "Gambar" : "anroskalaundry.png"
+        "Gambar" : "anroskalaundry.png",
+        "Informasi Detail": "Jam Buka : 08.00 - 23.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok"
+
       }
     },
     {
@@ -1121,7 +1234,9 @@
         "DD(X)" : 101.3719976,
         "Alamat" : "Jl. Merpati Sakti Gg. Pipit No.Depan, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : "0852-1034-2140",
-        "Gambar" : "cahayalaundry.png"
+        "Gambar" : "cahayalaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok"
+
       }
     },
     {
@@ -1140,7 +1255,9 @@
         "DD(X)" : 101.37195507202399,
         "Alamat" : "Pekanbaru, Simpang Baru, Tampan, Pekanbaru City, Riau 28293",
         "Informasi Kontak" : "0812-7543-8062",
-        "Gambar" : "lisalaundry.png"
+        "Gambar" : "lisalaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 4.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok <br>4.Tersedia untuk Bed Cover dan Boneka per item"
+
       }
     },
     {
@@ -1159,7 +1276,9 @@
         "DD(X)" : 101.37205355870501,
         "Alamat" : "JL. Merpati Sakti Blok : Melati Panam Indah No. 2, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293, ",
         "Informasi Kontak" : "0813-6111-7600",
-        "Gambar" : "mijayalaundry.png"
+        "Gambar" : "mijayalaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci : 3.000 <br>2.Gosok : 3.000 <br>3.Cuci dan Gosok : 5.000 <br>4.Cuci dan Lipat : 4.000"
+
       }
     },
     {
@@ -1178,7 +1297,9 @@
         "DD(X)" : 101.37707522604499,
         "Alamat" : "Jl. Swakarya Kelurahan No.mor 10, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : "0812-8334-1612",
-        "Gambar" : "deltalaundry.png"
+        "Gambar" : "deltalaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.30 - 21.30 <br>Harga Per Kg : 8.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Gosok <br>3.Cuci dan Gosok <br>4.Cuci dan Lipat <br>5.Menerima cuci per item untuk Sepatu, Bed Cover, Tas, Koper, dan Stroller"
+
       }
     },
     {
@@ -1197,7 +1318,9 @@
         "DD(X)" : 101.38077680000001,
         "Alamat" : "Jl. Swakarya, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : "0852-6525-7950",
-        "Gambar" : "elenlaundry.png"
+        "Gambar" : "elenlaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 4.500 <br>Layanan Yang Tersedia <br>1.Cuci Lipat:4.000 <br>2.Setrika:3.500 <br>3.Cuci dan Setrika:4.500 <br>4.Menerima cuci per item untuk Sepatu, Bed Cover, Tas, dan Helm"
+
       }
     },
     {
@@ -1216,7 +1339,9 @@
         "DD(X)" : 101.371894,
         "Alamat" : "Jl. Merpati Sakti, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28292",
         "Informasi Kontak" : "0822-6893-2091",
-        "Gambar" : "temenlaundry.png"
+        "Gambar" : "temenlaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 22.00 <br>Layanan Yang Tersedia <br>1.Cuci Lipat:3.800 <br>2.Cuci dan Setrika 2 hari:5.500 <br>3.Cuci dan Setrika 1 hari:7.500 <br>4.Cuci dan Setrika 6 jam:9.500 <br>5.Setrika saja:4.000 <br>6.Sepatu:30.000/per pasang"
+
       }
     },
     {
@@ -1235,7 +1360,9 @@
         "DD(X)" : 101.37209919999999,
         "Alamat" : "Jl. Merpati Sakti, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : "-",
-        "Gambar" : "zackylaundry.png"
+        "Gambar" : "zackylaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok"
+
       }
     },
     {
@@ -1254,7 +1381,9 @@
         "DD(X)" : 101.37181910142699,
         "Alamat" : "Jl. Merpati Sakti No.Kelurahan, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : null,
-        "Gambar" : "kafeellaundry.png"
+        "Gambar" : "kafeellaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Pengeringan <br>3.Cuci dan Gosok"
+
       }
     },
     {
@@ -1273,7 +1402,9 @@
         "DD(X)" : 101.372045860138,
         "Alamat" : "Jl. Merpati Sakti, Kec. Tampan, Kota Pekanbaru, No.22 Simpang Baru, Riau 28293 ",
         "Informasi Kontak" : "0813-7879-7215",
-        "Gambar" : "dyaslaundry.png"
+        "Gambar" : "dyaslaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci <br>2.Cuci Helm <br>3.Cuci dan Gosok <br>4.Cuci Sepatu"
+
       }
     },
     {
@@ -1292,7 +1423,9 @@
         "DD(X)" : 101.37209148927499,
         "Alamat" : "Jl. Merpati Sakti, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : "0813-6620-9442",
-        "Gambar" : "abaylaundry.png"
+        "Gambar" : "abaylaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 22.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci Lipat: 4.000 <br>2.Setrika: 3.500 <br>3.Cuci dan Setrika: 4.500 <br>4.Menerima cuci per item untuk Sepatu, Bed Cover, Tas, dan Helm"
+        
       }
     },
     {
@@ -1311,7 +1444,9 @@
         "DD(X)" : 101.4360521297,
         "Alamat" : "Jl. Karya I, Tengkerang Bar., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
         "Informasi Kontak" : "0821-7248-8861",
-        "Gambar" : "loadLaundry.jpg"
+        "Gambar" : "loadLaundry.jpg",
+        "Informasi Detail" : " Jam Buka : 08.00 - 22.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci Lipat: 4.000 <br>2.Setrika: 3.500 <br>3.Cuci dan Setrika: 4.500 <br>4.Menerima cuci per item untuk Sepatu, Bed Cover, Tas, dan Helm"
+
       }
     },
     {
@@ -1330,7 +1465,9 @@
         "DD(X)" : 101.453486794463,
         "Alamat" : "Jl. Air Dingin No.2, Kelurahan Air Dingin, Kec. Bukit Raya, Kota Pekanbaru, Riau 28288",
         "Informasi Kontak" : "82288899112",
-        "Gambar" : "tashalaundry.png"
+        "Gambar" : "tashalaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 22.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1.Cuci : 4.000 <br>2.Gosok : 4.000 <br>3.Cuci dan Gosok : 5.000"
+
       }
     },
     {
@@ -1349,7 +1486,9 @@
         "DD(X)" : 101.45947501720001,
         "Alamat" : "CFW5+XQ4, Jl. Air Dingin III, Simpang Tiga, Kec. Bukit Raya, Kota Pekanbaru, Riau 28284",
         "Informasi Kontak" : "82173515200",
-        "Gambar" : "fortysevenlaundry.png"
+        "Gambar" : "fortysevenlaundry.png",
+        "Informasi Detail" : " Jam Buka : 07.30 - 22.00 <br>Harga Per Kg : 5.000 <br>Express : 6.000 <br>Express Pro : 8.000 <br>Express Pro Max : 15.000 <br>Layanan Yang Tersedia <br>1.Cuci Komplit <br>2. Gosok <br>3. Cuci lipat (min. 5kg)"
+
       }
     },
     {
@@ -1368,7 +1507,9 @@
         "DD(X)" : 101.458822734129,
         "Alamat" : "jl. Air Dingin I (Lestari, Ujung Ruko No.4, Kota Pekanbaru, Riau 28284",
         "Informasi Kontak" : "82387305221",
-        "Gambar" : "directlaundry.png"
+        "Gambar" : "directlaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 21.00 <br>Harga Per Kg (min. 3kg) : 5.500 (Super Kilat) <br>24 jam : 7.500/Kg <br>10 jam : 10.500/Kg <br>5 jam : 15.000/Kg <br>Layanan Yang Tersedia <br>1. Cuci Kering Setrika <br>2. Cuci Kering Lipat <br>3. Setrika Wangi"
+
       }
     },
     {
@@ -1387,7 +1528,9 @@
         "DD(X)" : 101.43600055599001,
         "Alamat" : "Gg. Serumpun Jl. Kartama No.4b, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289",
         "Informasi Kontak" : "85374308052",
-        "Gambar" : "HDLaundry.png"
+        "Gambar" : "HDLaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 16.00 <br>Harga Per Kg : 4.000 <br>Express : 6.000/Kg <br>Kilat : 7.000/Kg <br>Layanan Yang Tersedia <br>1. Cuci Komplit <br>2. Setrika Aja <br>3. Cuci Kering Lipat <br>4. Satuan (Pakaian dinas, bed cover, selimut)"
+
       }
     },
     {
@@ -1406,7 +1549,9 @@
         "DD(X)" : 101.443190032202,
         "Alamat" : "musholla baitul mulk, Jl. Kartama raya depan, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
         "Informasi Kontak" : "82285572300",
-        "Gambar" : "wflaundry.png"
+        "Gambar" : "wflaundry.png",
+        "Informasi Detail" : " Jam Buka : 07.00 - 22.30 <br>Harga Per Kg : 5.000 <br>Express : 8.000/Kg <br>Layanan Yang Tersedia <br>1. Cuci <br>2. Cuci Kering <br>3. Cuci dan Gosok <br>4. Carpet <br>5. Gordyn <br>6. Ransel <br>7. Sprei, bedcover <br>8. Sepatu"
+
       }
     },
     {
@@ -1425,7 +1570,9 @@
         "DD(X)" : 101.43640231833599,
         "Alamat" : "Jl. Kartama No.64, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : "81364227762",
-        "Gambar" : "supercleanlaundry.png"
+        "Gambar" : "supercleanlaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 20.00 <br>Harga Per Kg : 5.500 <br>Express 1 hari : 7.000 <br>Express 5 jam : 10.000/Kg <br>Layanan Yang Tersedia <br>1. Cuci <br>2. Gosok <br>3. Cuci dan Gosok <br>4. Sprei, bed cover"
+
       }
     },
     {
@@ -1444,7 +1591,9 @@
         "DD(X)" : 101.42452832659301,
         "Alamat" : "Jl. Inpres No.2, RT.008/RW.016, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289",
         "Informasi Kontak" : "82353300118",
-        "Gambar" : "L-StarLaundry.jpg"
+        "Gambar" : "L-StarLaundry.jpg",
+        "Informasi Detail" : " Jam Buka : 08.00 - 21.00 <br>Harga Per Kg : 7.000/Kg <br>Express 1 Hari : 8.000/Kg <br>Express 6 Jam : 12.000/Kg <br>Layanan Yang Tersedia <br>1. Cuci Lipat <br>2. Cuci dan Gosok <br>3. Cuci Satuan (boneka, tas, blazer, gordyn, dress, cardigan) <br>4. Bed cover set <br>5. Sepatu"
+
       }
     },
     {
@@ -1463,7 +1612,9 @@
         "DD(X)" : 101.447044809023,
         "Alamat" : "Jl. Pahlawan Kerja, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28284",
         "Informasi Kontak" : "-",
-        "Gambar" : "daffalaundry.png"
+        "Gambar" : "daffalaundry.png",
+        "Informasi Detail" : " Jam Buka : 06.00 - 22.00 <br>Harga Per Kg : 6.000 <br>Express : 8.000/Kg <br>Layanan Yang Tersedia <br>1. Cuci kering <br>2. Setrika aja <br>3. Cuci dan Gosok <br>4. Paket bulanan <br>5. Paket Keluarga <br>6. Cuci helm"
+
       }
     },
     {
@@ -1482,7 +1633,9 @@
         "DD(X)" : 101.44884741511,
         "Alamat" : "Jl. Pahlawan Kerja No.44, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28288",
         "Informasi Kontak" : "81365021838",
-        "Gambar" : "dutalaundry.png"
+        "Gambar" : "dutalaundry.png",
+        "Informasi Detail" : " Jam Buka : 07.30 - 22.00 <br>Harga Per Kg : 4.000 <br>Express : 7.000/Kg <br>Layanan Yang Tersedia <br>1. Cuci kering lipat <br>2. Setrika aja <br>3. Cuci dan Gosok"
+
       }
     },
     {
@@ -1501,7 +1654,9 @@
         "DD(X)" : 101.452638544953,
         "Alamat" : "Jl. Air Dingin No.1, Simpang Tiga, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28288",
         "Informasi Kontak" : "81399698889",
-        "Gambar" : "manylaundry.png"
+        "Gambar" : "manylaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 22.00 <br>Harga Per Kg : 3.000 <br>Layanan Yang Tersedia <br>1. Cuci Setrika 3 hari : 5.000 <br>2. Cuci Setrika 2 hari : 6.000 <br>3. Cuci Setrika 1 hari : 7.000 <br>4. Cuci Setrika 6 jam : 9.000 <br>5. Cuci Setrika 3 jam : 18.000 <br>6. Cuci lipat : 4.000 <br>7. Setrika aja : 4.000"
+
       }
     },
     {
@@ -1520,7 +1675,9 @@
         "DD(X)" : 101.449651613274,
         "Alamat" : "FC3X+PV7, Jl. Pahlawan Kerja, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
         "Informasi Kontak" : "-",
-        "Gambar" : "sukseslaundry.png"
+        "Gambar" : "sukseslaundry.png",
+        "Informasi Detail" : " Jam Buka : 07.00 - 22.00 <br>Harga Per Kg : 6.000 <br>Express : 10.000/Kg <br>Layanan Yang Tersedia <br>1. Cuci lipat <br>2. Cuci dan gosok <br>3. Sepatu <br>4. Bed cover"
+
       }
     },
     {
@@ -1539,7 +1696,9 @@
         "DD(X)" : 101.449880551969,
         "Alamat" : "Jl. Pahlawan Kerja, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
         "Informasi Kontak" : "-",
-        "Gambar" : "khaliflaundry.png"
+        "Gambar" : "khaliflaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 22.00 <br>Harga Per Kg : 4.500 <br>Layanan Yang Tersedia <br>1. Cuci lipat <br>2. Setrika aja <br>3. Cuci dan Gosok <br>4. Gratis antar jemput"
+
       }
     },
     {
@@ -1558,7 +1717,9 @@
         "DD(X)" : 101.446584737137,
         "Alamat" : "CCVW+9G6, Jl. Kartama, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28284",
         "Informasi Kontak" : "-",
-        "Gambar" : "khalif3.png"
+        "Gambar" : "khalif3.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 22.00 <br>Harga Per Kg : 4.500 <br>Layanan Yang Tersedia <br>1. Cuci lipat <br>2. Setrika aja <br>3. Cuci dan Gosok <br>4. Gratis antar jemput"
+
       }
     },
     {
@@ -1577,7 +1738,9 @@
         "DD(X)" : 101.435437367568,
         "Alamat" : "Jl. Kartama No.D3, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28282",
         "Informasi Kontak" : "82173018084",
-        "Gambar" : "youlaundry.png"
+        "Gambar" : "youlaundry.png",
+        "Informasi Detail" : " Jam Buka : 07.30 - 21.00 <br>Layanan 24 jam <br>1. Cuci setrika : 6.000/Kg <br>2. Setrika aja : 4.000/Kg <br>3. Cuci lipat : 4.000/Kg <br>4. Cuci aja : 3.000/Kg <br>Layanan 5 jam <br>1. Cuci setrika : 10.000/Kg <br>2. Setrika aja : 7.000/Kg <br>3. Cuci lipat : 5.000/Kg <br>4. Cuci aja : 4.000/Kg <br>Paket member (berbentuk deposit) <br>1. Paket mahasiswa : 100.000 <br>2. Paket karyawan : 250.000 <br>3. Paket rumah tangga : 500.000"
+
       }
     },
     {
@@ -1596,7 +1759,9 @@
         "DD(X)" : 101.450159186607,
         "Alamat" : "Ruko Ruang Laundry, Jl. Pahlawan Kerja No.32, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28288",
         "Informasi Kontak" : "82387360822",
-        "Gambar" : "ruanglaundry.png"
+        "Gambar" : "ruanglaundry.png",
+        "Informasi Detail" : " Jam Buka : 07.30 - 22.00 <br>Harga Per Kg : 5.000 <br>Express 2 jam : 20.000/Kg <br>Layanan Yang Tersedia <br>1. Cuci kering <br>2. Cuci kering lipat <br>3. Cuci dan Gosok <br>4. Sepatu"
+
       }
     },
     {
@@ -1615,7 +1780,9 @@
         "DD(X)" : 101.423106758892,
         "Alamat" : "Jl. Patria Sari No.1, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "-",
-        "Gambar" : "mataharilaundry.jpg"
+        "Gambar" : "mataharilaundry.jpg",
+        "Informasi Detail" : " Jam Buka : 07.00 - 22.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 4.000 <br>2. Setrika: 5.000 <br>3. Cuci dan Setrika: 6.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas"
+
       }
     },
     {
@@ -1634,7 +1801,9 @@
         "DD(X)" : 101.420607301193,
         "Alamat" : "Umban Sari, Rumbai, Pekanbaru City, Riau",
         "Informasi Kontak" : "-",
-        "Gambar" : "putrilaundry.png"
+        "Gambar" : "putrilaundry.png",
+        "Informasi Detail" : " Jam Buka : 07.30 - 22.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 4.000 <br>2. Setrika: 4.000 <br>3. Cuci dan Setrika: 5.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas"
+
       }
     },
     {
@@ -1653,7 +1822,9 @@
         "DD(X)" : 101.419150274071,
         "Alamat" : "HCF9+7MR, Umban Sari, Rumbai, Pekanbaru City, Riau",
         "Informasi Kontak" : "85376612650",
-        "Gambar" : "Dqlean.jpg"
+        "Gambar" : "Dqlean.jpg",
+        "Informasi Detail" : " Jam Buka : 07.00 - 22.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 4.000 <br>2. Setrika: 5.000 <br>3. Cuci dan Setrika: 6.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas, Helm"
+
       }
     },
     {
@@ -1672,7 +1843,9 @@
         "DD(X)" : 101.41958586059199,
         "Alamat" : "No 56 B, Jl. Umbansari Atas, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28265",
         "Informasi Kontak" : "81266598077",
-        "Gambar" : "kalis.png"
+        "Gambar" : "kalis.png",
+        "Informasi Detail" : " Jam Buka : 07.30 - 21.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 4.000 <br>2. Setrika: 3.500 <br>3. Cuci dan Setrika: 6.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas"
+
       }
     },
     {
@@ -1691,7 +1864,9 @@
         "DD(X)" : 101.41907883491599,
         "Alamat" : "Jl. Umbansari Atas No.76, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "-",
-        "Gambar" : "HTMLaundry2.jpg"
+        "Gambar" : "HTMLaundry2.jpg",
+        "Informasi Detail" : " Jam Buka : 07.30 - 21.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 4.000 <br>2. Setrika: 3.500 <br>3. Cuci dan Setrika: 6.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas"
+
       }
     },
     {
@@ -1710,7 +1885,9 @@
         "DD(X)" : 101.418934521558,
         "Alamat" : "Jl. Umbansari Atas No.76, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "81267050040",
-        "Gambar" : "H&NLaundry.jpg"
+        "Gambar" : "H&NLaundry.jpg",
+        "Informasi Detail" : " Jam Buka : 07.00 - 22.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 4.000 <br>2. Setrika: 5.000 <br>3. Cuci dan Setrika: 6.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas, Helm"
+
       }
     },
     {
@@ -1729,7 +1906,9 @@
         "DD(X)" : 101.418668546774,
         "Alamat" : "Jl. Umbansari Atas No.76, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "85363078832",
-        "Gambar" : "AppleLaundry.jpg"
+        "Gambar" : "AppleLaundry.jpg",
+        "Informasi Detail" : " Jam Buka : 08.00 - 20.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 4.000 <br>2. Setrika: 3.000 <br>3. Cuci dan Setrika: 5.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas"
+
       }
     },
     {
@@ -1748,7 +1927,9 @@
         "DD(X)" : 101.417737749054,
         "Alamat" : " Jl. Umbansari Atas, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28265",
         "Informasi Kontak" : "81266005749",
-        "Gambar" : "Erylaundry.jpg"
+        "Gambar" : "Erylaundry.jpg",
+        "Informasi Detail" : " Jam Buka : 07.30 - 21.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 4.000 <br>2. Setrika: 4.000 <br>3. Cuci dan Setrika: 6.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas"
+
       }
     },
     {
@@ -1767,7 +1948,9 @@
         "DD(X)" : 101.415521501599,
         "Alamat" : "HCG8+255, Jl. Padat Karya, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "8,8200100001e+011",
-        "Gambar" : "RafkyLaundry.jpg"
+        "Gambar" : "RafkyLaundry.jpg",
+        "Informasi Detail" : " Jam Buka : 08.00 - 20.00 <br>Harga Per Kg : 5.500 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 3.500 <br>2. Setrika: 4.000 <br>3. Cuci dan Setrika: 5.500 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas"
+
       }
     },
     {
@@ -1786,7 +1969,9 @@
         "DD(X)" : 101.423127477986,
         "Alamat" : "Jl. Patria Sari No.mor 6, Umban Sari, Rumbai, Pekanbaru City, Riau 28266",
         "Informasi Kontak" : "82112502243",
-        "Gambar" : "obenglaundry.png"
+        "Gambar" : "obenglaundry.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 20.30 <br>Harga Per Kg : 5.500 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 3.500 <br>2. Setrika: 4.000 <br>3. Cuci dan Setrika: 5.500 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas dan Gosok"
+
       }
     },
     {
@@ -1805,7 +1990,9 @@
         "DD(X)" : 101.425520255617,
         "Alamat" : "Jl. Rowo Sari, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "-",
-        "Gambar" : "laundryexpress.png"
+        "Gambar" : "laundryexpress.png",
+        "Informasi Detail" : " Jam Buka : 08.00 - 20.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 4.000 <br>2. Setrika: 4.000 <br>3. Cuci dan Setrika: 6.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas"
+
       }
     },
     {
@@ -1824,7 +2011,9 @@
         "DD(X)" : 101.425903223205,
         "Alamat" : "Jl. Perum Padi Mas 2, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293",
         "Informasi Kontak" : "82384723933",
-        "Gambar" : "EviLaundry.jpg"
+        "Gambar" : "EviLaundry.jpg",
+        "Informasi Detail" : " Jam Buka : 07.30 - 22.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 3.000 <br>2. Setrika: 3.000 <br>3. Cuci dan Setrika: 5.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas, Helm"
+
       }
     },
     {
@@ -1843,7 +2032,9 @@
         "DD(X)" : 101.421737974309,
         "Alamat" : "Jl. Mayasari No.1, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28265",
         "Informasi Kontak" : "81371942874",
-        "Gambar" : "ZonaLaundry.jpg"
+        "Gambar" : "ZonaLaundry.jpg",
+        "Informasi Detail" : " Jam Buka : 08.00 - 20.30 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 3.000 <br>2. Setrika: 3.000 <br>3. Cuci dan Setrika: 5.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas, Helm"
+
       }
     },
     {
@@ -1862,7 +2053,9 @@
         "DD(X)" : 101.44203584887801,
         "Alamat" : "Limbungan Baru, Rumbai Pesisir, Pekanbaru City, Riau 28266",
         "Informasi Kontak" : "85211985568",
-        "Gambar" : "FortunaLaundry.jpg"
+        "Gambar" : "FortunaLaundry.jpg",
+        "Informasi Detail" : "Jam Buka : 07.30 - 21.00 <br>Harga Per Kg : 5.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 3.000 <br>2. Setrika: 3.000 <br>3. Cuci dan Setrika: 5.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas, Helm"
+
       }
     },
     {
@@ -1881,7 +2074,9 @@
         "DD(X)" : 101.43771038814801,
         "Alamat" : "Jl. Pembangunan, Limbungan Baru, Kec. Rumbai Pesisir, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "85263776823",
-        "Gambar" : "simbak.png"
+        "Gambar" : "simbak.png",
+        "Informasi Detail" : "Jam Buka : 07.30 - 22.00 <br>Harga Per Kg : 5.500 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 3.500 <br>2. Setrika: 4.000 <br>3. Cuci dan Setrika: 5.500 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas dan Gosok"
+
       }
     },
     {
@@ -1900,7 +2095,9 @@
         "DD(X)" : 101.43773948102699,
         "Alamat" : "Jl. Pembangunan, Limbungan Baru, Kec. Rumbai Pesisir, Kota Pekanbaru, Riau 28266",
         "Informasi Kontak" : "82283680522",
-        "Gambar" : "mitralaundry.png"
+        "Gambar" : "mitralaundry.png",
+        "Informasi Detail" : "Jam Buka : 07.00 - 22.00 <br>Harga Per Kg : 6.000 <br>Layanan Yang Tersedia <br>1. Cuci Lipat: 4.000 <br>2. Setrika: 5.000 <br>3. Cuci dan Setrika: 6.000 <br>4. Menerima cuci per item untuk Sepatu, Bed Cover, Tas"
+
       }
     }
   ]
