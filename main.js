@@ -91,12 +91,12 @@ map.on('singleclick', function (evt) {
     const detailLaundry = feature.get('Informasi Detail') || 'Tidak tersedia';
 
     let content = `
-      <h3>Informasi Fitur</h3>
+      <h3>Informasi Laundry (Klik Untuk Detail)</h3>
       ${gambar ? `<a href="detail.html?namaLaundry=${encodeURIComponent(namaLaundry)}">Gambar: <img src="GambarLaundry/${gambar}" alt="Foto Laundry" style="width: 200px; height: auto;"></a>` : '<p>Gambar: <em>Tidak tersedia</em></p>'}
       <p>Nama Laundry: <strong>${namaLaundry}</strong></p>
       <p>Alamat Laundry: ${alamatLaundry}</p>
       <p>Kontak Laundry: ${kontakLaundry}</p>
-      <p>Informasi Detail: ${detailLaundry}</p>
+      
     `;
 
     document.getElementById('popup-content').innerHTML = content;
