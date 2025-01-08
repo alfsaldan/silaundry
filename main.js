@@ -17,14 +17,6 @@ const kabRiau = new VectorLayer({
   }),
 });
 
-const riau = new VectorLayer({
-  source: new VectorSource({
-    format: new GeoJSON(),
-    url: 'data/polygonpku.json',
-  }),
-});
-
-
 const laundry = new VectorLayer({
   source: new VectorSource({
     format: new GeoJSON(),
@@ -265,5 +257,3 @@ function performSearch(keyword) {
     });
 }
 }
-
-
