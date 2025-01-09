@@ -45,6 +45,13 @@ const popup = new Overlay({
   offset: [0, -15],
 });
 
+// Tambahkan event listener untuk tombol close
+closer.onclick = function () {
+  popup.setPosition(undefined); // Sembunyikan popup
+  closer.blur(); // Hapus fokus dari tombol untuk aksesibilitas
+  return false; // Cegah tindakan default (misalnya reload halaman)
+};
+
 
 const map = new Map({
   target: "map",
